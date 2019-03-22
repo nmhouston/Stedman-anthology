@@ -5,11 +5,11 @@ A dataset of the poems published in Edmund Clarence Stedman's *A Victorian Antho
 The American critic Edmund Clarence Stedman was the first to use the term “Victorian” to describe British literature after 1837, in a series of essays in *Scribner's Monthly* that were later published in his 1875 book *Victorian Poets*. In 1895, Stedman edited an anthology of British poetry entitled *A Victorian Anthology 1837-1895*. 
 
 ## Data Source and Preparation
-The digital source for the data files released here is the [Bartleby.com edition] (https://www.bartleby.com/246/) of Stedman's anthology. The four poems published as epigraphs to each section are omitted from this dataset. This dataset contains 1,284 poem files.
+The digital source for the data files released here is the Bartleby.com edition (https://www.bartleby.com/246/) of Stedman's anthology. The four poems published as epigraphs to each section are omitted from this dataset. This dataset contains 1,284 poem files.
 Data preparation included:
 + removing all HTML tags
 + saving each poem as a UTF-8 encoded plain text file 
-+ splitting each of the sonnets Stedman includes from Elizabeth Barrett Browning's sequence Sonnets from the Portuguese into a separate file
++ splitting each of the sonnets Stedman includes from Elizabeth Barrett Browning's sequence *Sonnets from the Portuguese* into a separate file
 + removing titles and epigraphs  
 + removing line numbers 
 + removing roman numerals (used to divide poem sections) 
@@ -31,7 +31,7 @@ Stedman's anthology includes works by 342 named poets plus one poem credited as 
 
 The Stedman_data.csv lists all the poems in the dataset and its assigned poem code. This table also lists their associated author and section codes, which can be cross-referenced with the other csv files for that additional information. 
 
-### File naming 
+## File naming 
 
 The poem files in the dataset have been named so as to facilitate analysis. Each file name expresses the gender of the poet, the major division of the anthology in which the poem is published, the poet code, and the unique text code of the poem. 
 
