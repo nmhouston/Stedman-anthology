@@ -1,0 +1,1285 @@
+﻿textid,title,poet_last,poet_first,poet_mid1,poet_mid2,poet_mid3,poet_title,poet_gndr,poet_id,cat_id
+2,Overture,Landor,Walter,Savage,,,,M,37,1a
+3,The Hamadryad,Landor,Walter,Savage,,,,M,37,1a
+4,The Death of Artemidora,Landor,Walter,Savage,,,,M,37,1a
+5,From “Myrtis”,Landor,Walter,Savage,,,,M,37,1a
+6,Little Aglaë,Landor,Walter,Savage,,,,M,37,1a
+7,To a Cyclamen,Landor,Walter,Savage,,,,M,37,1a
+8,Dirce,Landor,Walter,Savage,,,,M,37,1a
+9,An Invocation,Landor,Walter,Savage,,,,M,37,1a
+10,From “Gebir”,Landor,Walter,Savage,,,,M,37,1a
+11,To Youth,Landor,Walter,Savage,,,,M,37,1a
+12,To Age,Landor,Walter,Savage,,,,M,37,1a
+13,Rose Aylmer,Landor,Walter,Savage,,,,M,37,1a
+14,"Rose Aylmer’s Hair, Given by Her Sister",Landor,Walter,Savage,,,,M,37,1a
+15,Child of a Day,Landor,Walter,Savage,,,,M,37,1a
+16,Fiesolan Idyl,Landor,Walter,Savage,,,,M,37,1a
+17,Farewell to Italy,Landor,Walter,Savage,,,,M,37,1a
+18,The Maid’s Lament,Landor,Walter,Savage,,,,M,37,1a
+19,Margaret,Landor,Walter,Savage,,,,M,37,1a
+20,On Music,Landor,Walter,Savage,,,,M,37,1a
+21,Plays,Landor,Walter,Savage,,,,M,37,1a
+22,There Falls with Every Wedding Chime,Landor,Walter,Savage,,,,M,37,1a
+23,Shakespeare and Milton,Landor,Walter,Savage,,,,M,37,1a
+24,Macaulay,Landor,Walter,Savage,,,,M,37,1a
+25,Robert Browning,Landor,Walter,Savage,,,,M,37,1a
+26,On the Death of M. D’Ossoli and His Wife Margaret Fuller,Landor,Walter,Savage,,,,M,37,1a
+27,To Ianthe,Landor,Walter,Savage,,,,M,37,1a
+28,Ianthe’s Troubles,Landor,Walter,Savage,,,,M,37,1a
+29,The Appeal,Landor,Walter,Savage,,,,M,37,1a
+30,The Test,Landor,Walter,Savage,,,,M,37,1a
+31,In after Time,Landor,Walter,Savage,,,,M,37,1a
+32,A Prophecy,Landor,Walter,Savage,,,,M,37,1a
+33,Cowslips,Landor,Walter,Savage,,,,M,37,1a
+34,Wrinkles,Landor,Walter,Savage,,,,M,37,1a
+35,Advice,Landor,Walter,Savage,,,,M,37,1a
+36,How to Read Me,Landor,Walter,Savage,,,,M,37,1a
+37,Time to Be Wise,Landor,Walter,Savage,,,,M,37,1a
+38,The One White Hair,Landor,Walter,Savage,,,,M,37,1a
+39,On Himself,Landor,Walter,Savage,,,,M,37,1a
+40,On Lucretia Borgia’s Hair,Landor,Walter,Savage,,,,M,37,1a
+41,Persistence,Landor,Walter,Savage,,,,M,37,1a
+42,Man,Landor,Walter,Savage,,,,M,37,1a
+43,To Sleep,Landor,Walter,Savage,,,,M,37,1a
+44,On Living Too Long,Landor,Walter,Savage,,,,M,37,1a
+45,A Thought,Landor,Walter,Savage,,,,M,37,1a
+46,Heartsease,Landor,Walter,Savage,,,,M,37,1a
+47,Verses Why Burnt,Landor,Walter,Savage,,,,M,37,1a
+48,Death Undreaded,Landor,Walter,Savage,,,,M,37,1a
+49,Memory,Landor,Walter,Savage,,,,M,37,1a
+50,For an Epitaph at Fiesole,Landor,Walter,Savage,,,,M,37,1a
+51,The Flower of Beauty,Darley,George,,,,,M,230,1a
+52,Summer Winds,Darley,George,,,,,M,230,1a
+53,"Songs from “Sylvia; Or, the May Queen.” I. Chorus of Spirits",Darley,George,,,,,M,230,1a
+54,"Songs from “Sylvia; Or, the May Queen.” II. Morning-Song",Darley,George,,,,,M,230,1a
+55,"Songs from “Sylvia; Or, the May Queen.” III. Nephon’s Song",Darley,George,,,,,M,230,1a
+56,"Songs from “Sylvia; Or, the May Queen.” IV. Romanzo to Sylvia",Darley,George,,,,,M,230,1a
+57,The Sea,Procter,Bryan,Waller,,,,M,221,1a
+58,The Hunter’s Song,Procter,Bryan,Waller,,,,M,221,1a
+59,The Poet’s Song to His Wife,Procter,Bryan,Waller,,,,M,221,1a
+60,The Stormy Petrel,Procter,Bryan,Waller,,,,M,221,1a
+61,Peace! What Do Tears Avail?,Procter,Bryan,Waller,,,,M,221,1a
+62,Life,Procter,Bryan,Waller,,,,M,221,1a
+63,The Blood Horse,Procter,Bryan,Waller,,,,M,221,1a
+64,"Sit Down, Sad Soul",Procter,Bryan,Waller,,,,M,221,1a
+65,Golden-Tressed Adelaide,Procter,Bryan,Waller,,,,M,221,1a
+66,A Poet’s Thought,Procter,Bryan,Waller,,,,M,221,1a
+67,A Petition to Time,Procter,Bryan,Waller,,,,M,221,1a
+68,From “Joseph and His Brethren”,Wells,Charles,Jeremiah,,,,M,403,1a
+69,From “Philip Van Artevelde”,Taylor,Henry,,,,Sir,M,161,1a
+70,From “Edwin the Fair”,Taylor,Henry,,,,Sir,M,161,1a
+71,A Characterization,Taylor,Henry,,,,Sir,M,161,1a
+72,Aretina’s Song,Taylor,Henry,,,,Sir,M,161,1a
+73,The Hero,Taylor,Henry,,,,Sir,M,161,1a
+74,The Battle of Naseby,Macaulay,Thomas,Babington,,,1st Baron,M,1,1a
+75,Epitaph on a Jacobite,Macaulay,Thomas,Babington,,,1st Baron,M,1,1a
+76,Ivry,Macaulay,Thomas,Babington,,,1st Baron,M,1,1a
+77,From “Orion: An Epic Poem”,Horne,Richard,Hengist,,,,M,274,1a
+78,Genius,Horne,Richard,Hengist,,,,M,274,1a
+79,Pelters of Pyramids,Horne,Richard,Hengist,,,,M,274,1a
+80,Solitude and the Lily,Horne,Richard,Hengist,,,,M,274,1a
+81,The Slave,Horne,Richard,Hengist,,,,M,274,1a
+82,The Plough,Horne,Richard,Hengist,,,,M,274,1a
+83,From “Torrismond”,Beddoes,Thomas,Lovell,,,,M,84,1a
+84,Dream-Pedlary,Beddoes,Thomas,Lovell,,,,M,84,1a
+85,Ballad of Human Life,Beddoes,Thomas,Lovell,,,,M,84,1a
+86,"Songs from “Death’s Jest-Book.” I. To Sea, to Sea!",Beddoes,Thomas,Lovell,,,,M,84,1a
+87,Songs from “Death’s Jest-Book.” II. Dirge,Beddoes,Thomas,Lovell,,,,M,84,1a
+88,Songs from “Death’s Jest-Book.” III. Athulf’s Death Song,Beddoes,Thomas,Lovell,,,,M,84,1a
+89,Songs from “Death’s Jest-Book.” IV. Second Dirge,Beddoes,Thomas,Lovell,,,,M,84,1a
+90,Songs from “The Brides’ Tragedy.” I. Hesperus Sings,Beddoes,Thomas,Lovell,,,,M,84,1a
+91,Songs from “The Brides’ Tragedy.” II. Love Goes A-Hawking,Beddoes,Thomas,Lovell,,,,M,84,1a
+92,The Song of the Western Men,Hawker,Robert,Stephen,,,,M,111,1a
+93,Mawgan of Melhuach,Hawker,Robert,Stephen,,,,M,111,1a
+94,Featherstone’s Doom,Hawker,Robert,Stephen,,,,M,111,1a
+95,“Pater Vester Pascit Illa”,Hawker,Robert,Stephen,,,,M,111,1a
+96,The Silent Tower of Bottreau,Hawker,Robert,Stephen,,,,M,111,1a
+97,To Alfred Tennyson,Hawker,Robert,Stephen,,,,M,111,1a
+98,The Cardinal’s Soliloquy,Lytton,Edward,Bulwer,,,1st Baron Lytton,M,204,1a
+99,When Stars Are in the Quiet Skies,Lytton,Edward,Bulwer,,,1st Baron Lytton,M,204,1a
+100,The Execution of Montrose,Aytoun,William,Edmondstoune,,,,M,178,1a
+101,Massacre of the Macpherson,Aytoun,William,Edmondstoune,,,,M,178,1a
+102,The Men of Gotham,Peacock,Thomas,Love,,,,M,350,1b
+103,The War-Song of Dinas Vawr,Peacock,Thomas,Love,,,,M,350,1b
+104,Margaret Love Peacock,Peacock,Thomas,Love,,,,M,350,1b
+105,The Vicar,Praed,Winthrop,Mackworth,,,,M,353,1b
+106,The Newly-Wedded,Praed,Winthrop,Mackworth,,,,M,353,1b
+107,Theocritus,Langhorne,Charles,Hartley,,,,M,294,1b
+108,The Jackdaw of Rheims,Barham,Richard,Harris,,,,M,182,1c
+109,Mr. Barney Maguire’s Account of the Coronation,Barham,Richard,Harris,,,,M,182,1c
+110,The Irishman and the Lady,Maginn,William,,,,,M,312,1c
+111,The Soldier-Boy,Maginn,William,,,,,M,312,1c
+112,The Shandon Bells,Mahony,Francis,Sylvester,,,,M,313,1c
+113,Death’s Alchemy,Walker,William,Sidney,,,,M,394,1d
+114,To the Nautilus,Coleridge,Hartley,,,,,M,97,1d
+115,The Birth of Speech,Coleridge,Hartley,,,,,M,97,1d
+116,Whither?,Coleridge,Hartley,,,,,M,97,1d
+117,To Shakespeare,Coleridge,Hartley,,,,,M,97,1d
+118,Ideality,Coleridge,Hartley,,,,,M,97,1d
+119,Song,Coleridge,Hartley,,,,,M,97,1d
+120,Prayer,Coleridge,Hartley,,,,,M,97,1d
+121,“Multum Dilexit”,Coleridge,Hartley,,,,,M,97,1d
+122,"Take Me, Mother Earth",Jameson,Anna,Brownell,,,,F,280,1d
+123,Thy Joy in Sorrow,Townshend,Chauncy,Hare,,,,M,387,1d
+124,The Sign of the Cross,Newman,John,Henry,,,,M,338,1d
+125,England,Newman,John,Henry,,,,M,338,1d
+126,Reverses,Newman,John,Henry,,,,M,338,1d
+127,The Pillar of the Cloud,Newman,John,Henry,,,,M,338,1d
+128,The Elements,Newman,John,Henry,,,,M,338,1d
+129,From “Phantasmion”,Coleridge,Sara,,,,,F,218,1d
+130,As Yonder Lamp,Whitehead,Charles,,,,,M,168,1d
+131,Shakespeare,Sterling,John,,,,,M,381,1d
+132,Louis XV,Sterling,John,,,,,M,381,1d
+133,To a Child,Sterling,John,,,,,M,381,1d
+134,To a Swallow Building under Our Eaves,Carlyle,Jane,Welsh,,,,F,212,1d
+135,After the Battle,Trench,Richard,Chenevix,,,,M,388,1d
+136,Sonnet,Trench,Richard,Chenevix,,,,M,388,1d
+137,The Old Baron,Miller,Thomas,,,,,M,133,1d
+138,The Pine Woods,Hanmer,John,,,,Lord,M,264,1d
+139,An Envoy to an American Lady,Milnes,Richard,Monckton,,,1st Baron Houghton,M,326,1d
+140,The Brook-Side,Milnes,Richard,Monckton,,,1st Baron Houghton,M,326,1d
+141,The Black Wall-Flower,Kemble,Frances,Anne,,,,F,286,1d
+142,Faith,Kemble,Frances,Anne,,,,F,286,1d
+143,Lady Mary,Alford,Henry,,,,,M,175,1d
+144,Colonos,Alford,Henry,,,,,M,175,1d
+145,The Roman Legions,Mitford,John,,,,,M,327,1d
+146,Written in Edinburgh,Hallam,Arthur,Henry,,,,M,261,1d
+147,An Epicurean’s Epitaph,De Vere,Aubrey,Thomas,,,,M,233,1d
+148,Flowers I Would Bring,De Vere,Aubrey,Thomas,,,,M,233,1d
+149,Human Life,De Vere,Aubrey,Thomas,,,,M,233,1d
+150,Sorrow,De Vere,Aubrey,Thomas,,,,M,233,1d
+151,Love’s Spite,De Vere,Aubrey,Thomas,,,,M,233,1d
+152,The Queen’s Vespers,De Vere,Aubrey,Thomas,,,,M,233,1d
+153,Cardinal Manning,De Vere,Aubrey,Thomas,,,,M,233,1d
+154,Song,De Vere,Aubrey,Thomas,,,,M,233,1d
+155,To Imperia,De Vere,Aubrey,Thomas,,,,M,233,1d
+156,If I Desire,Burbidge,Thomas,,,,,M,206,1d
+157,Mother’s Love,Burbidge,Thomas,,,,,M,206,1d
+158,Eventide,Burbidge,Thomas,,,,,M,206,1d
+159,Time and Death,Whitworth,William,Henry,,,,M,407,1d
+160,Champagne Rosé,Kenyon,John,,,,,M,289,1e
+161,The Departure of the Swallow,Howitt,William,,,,,M,275,1e
+162,She Wore a Wreath of Roses,Bayly,Thomas,Haynes,,,,M,184,1e
+163,Oh! Where Do Fairies Hide Their Heads?,Bayly,Thomas,Haynes,,,,M,184,1e
+164,The Sea Fowler,Howitt,Mary,,,,,F,112,1e
+165,Cornfields,Howitt,Mary,,,,,F,112,1e
+166,I Think on Thee,Hervey,Thomas,Kibble,,,,M,269,1e
+167,Tripping Down the Field-Path,Swain,Charles,,,,,M,382,1e
+168,Take the World As It Is,Swain,Charles,,,,,M,382,1e
+169,Life,Swain,Charles,,,,,M,382,1e
+170,The Rose Thou Gav’st,Swain,Charles,,,,,M,382,1e
+171,’T Was Just before the Hay Was Mown,Swain,Charles,,,,,M,382,1e
+172,The Quiet Eye,Cook,Eliza,,,,,F,219,1e
+173,The Sea-Child,Cook,Eliza,,,,,F,219,1e
+174,Baby May,Bennett,William,Cox,,,,M,188,1e
+175,"Be Mine, and I Will Give Thy Name",Bennett,William,Cox,,,,M,188,1e
+176,A Christmas Song,Bennett,William,Cox,,,,M,188,1e
+177,My Ain Wife,Laing,Alexander,,,,,M,291,1f
+178,The Sower’s Song,Carlyle,Thomas,,,,,M,213,1f
+179,’T is Sair to Dream,Gilfillan,Robert,,,,,M,252,1f
+180,The Exile’s Song,Gilfillan,Robert,,,,,M,252,1f
+181,Casa’s Dirge,Moir,David,Macbeth,,,,M,328,1f
+182,The Mitherless Bairn,Thom,William,,,,,M,385,1f
+183,The Swallow,Aird,Thomas,,,,,M,173,1f
+184,The Babie,Miller,Hugh,,,,,M,323,1f
+185,Muckle-Mou’d Meg,Ballantine,James,,,,,M,180,1f
+186,My Bath,Blackie,John,Stuart,,,,M,190,1f
+187,The Emigrant Lassie,Blackie,John,Stuart,,,,M,190,1f
+188,The Working Man’s Song,Blackie,John,Stuart,,,,M,190,1f
+189,Willie Winkie,Miller,William,,,,,M,324,1f
+190,"Tell Me, Ye Winged Winds",Mackay,Charles,,,,,M,310,1f
+191,Earl Norman and John Truman,Mackay,Charles,,,,,M,310,1f
+192,What Might Be Done,Mackay,Charles,,,,,M,310,1f
+193,"Rory O’More; Or, Good Omens",Lover,Samuel,,,,,M,303,1g
+194,Widow Machree,Lover,Samuel,,,,,M,303,1g
+195,Soggarth Aroon,Banim,John,,,,,M,181,1g
+196,A Place in Thy Memory,Griffin,Gerald,,,,,M,259,1g
+197,Nocturne,Griffin,Gerald,,,,,M,259,1g
+198,Dark Rosaleen,Mangan,James,Clarence,,,,M,130,1g
+199,Soul and Country,Mangan,James,Clarence,,,,M,130,1g
+200,Lament of the Irish Emigrant,Blackwood,Helen,Selina,,,Lady Dufferin,F,191,1g
+201,We Have Been Friends Together,Norton,Caroline,Elizabeth,Sarah,,,F,46,1g
+202,The King of Denmark’s Ride,Norton,Caroline,Elizabeth,Sarah,,,F,46,1g
+203,Love Not,Norton,Caroline,Elizabeth,Sarah,,,F,46,1g
+204,Kitty Neil,Waller,John,Francis,,,,M,395,1g
+205,A Spinning-Wheel Song,Waller,John,Francis,,,,M,395,1g
+206,The Fairy Thorn,Ferguson,Samuel,,,,Sir,M,246,1g
+207,The Sack of Baltimore,Davis,Thomas,Osborne,,,,M,231,1g
+208,The Boatman of Kinsale,Davis,Thomas,Osborne,,,,M,231,1g
+209,The Welcome,Davis,Thomas,Osborne,,,,M,231,1g
+210,The Irish Rapparees,Duffy,Charles,Gaban,,,,M,239,1g
+211,Bless the Dear Old Verdant Land,MacCarthy,Denis,Florence,,,,M,305,1g
+212,The Irish Wolf-Hound,MacCarthy,Denis,Florence,,,,M,305,1g
+213,The Revel,Dowling,Bartholomew,,,,,M,236,1g
+214,The Memory of the Dead,Ingram,John,Kells,,,,M,279,1g
+215,The Celtic Cross,McGee,Thomas,D’Arcy,,,,M,321,1g
+216,The Irish Wife,McGee,Thomas,D’Arcy,,,,M,321,1g
+217,The Exile’s Devotion,McGee,Thomas,D’Arcy,,,,M,321,1g
+218,The Voice of the Poor,Wilde,Jane,Francesca,,,Lady,F,409,1g
+219,Tipperary,Kelly,Mary,Eva,,,,F,285,1g
+220,Were I but His Own Wife,Downing,Ellen,Mary,Patrick,,,F,237,1g
+221,Woone Smile Mwore,Barnes,William,,,,,M,42,1h
+222,Blackmwore Maidens,Barnes,William,,,,,M,42,1h
+223,The Heäre,Barnes,William,,,,,M,42,1h
+224,The Castle Ruins,Barnes,William,,,,,M,42,1h
+225,The Dule ’s i’ This Bonnet o’ Mine,Waugh,Edwin,,,,,M,398,1h
+226,Th’ Sweetheart Gate,Waugh,Edwin,,,,,M,398,1h
+227,Owd Pinder,Waugh,Edwin,,,,,M,398,1h
+228,"Welcome, Bonny Brid!",Laycock,Samuel,,,,,M,295,1h
+229,Elegy on William Cobbett,Elliott,Ebenezer,,,,,M,102,1i
+230,A Poet’s Epitaph,Elliott,Ebenezer,,,,,M,102,1i
+231,The Builders,Elliott,Ebenezer,,,,,M,102,1i
+232,The Barons Bold,Fox,William,Johnson,,,,M,248,1i
+233,Life Is Love,Fox,William,Johnson,,,,M,248,1i
+234,The Dream of Eugene Aram,Hood,Thomas,,,,,M,41,1i
+235,Flowers,Hood,Thomas,,,,,M,41,1i
+236,Fair Ines,Hood,Thomas,,,,,M,41,1i
+237,The Death-Bed,Hood,Thomas,,,,,M,41,1i
+238,Ballad,Hood,Thomas,,,,,M,41,1i
+239,Lear,Hood,Thomas,,,,,M,41,1i
+240,Ballad,Hood,Thomas,,,,,M,41,1i
+241,From “Miss Kilmansegg and Her Precious Leg.” I. Her Death,Hood,Thomas,,,,,M,41,1i
+242,From “Miss Kilmansegg and Her Precious Leg.” II. Her Moral,Hood,Thomas,,,,,M,41,1i
+243,Ruth,Hood,Thomas,,,,,M,41,1i
+244,The Water Lady,Hood,Thomas,,,,,M,41,1i
+245,Ode—Autumn,Hood,Thomas,,,,,M,41,1i
+246,The Song of the Shirt,Hood,Thomas,,,,,M,41,1i
+247,The Lay of the Laborer,Hood,Thomas,,,,,M,41,1i
+248,The Bridge of Sighs,Hood,Thomas,,,,,M,41,1i
+249,Stanzas,Hood,Thomas,,,,,M,41,1i
+250,Stanzas to the Memory of Thomas Hood,Simmons,Bartholomew,,,,,M,373,1i
+251,"On, on, Forever",Martineau,Harriet,,,,,F,317,1i
+252,Nell Gwynne’s Looking-Glass,Blanchard,Laman,,,,,M,193,1i
+253,Hidden Joys,Blanchard,Laman,,,,,M,193,1i
+254,The Net-Braiders,Wade,Thomas,,,,,M,393,1i
+255,Birth and Death,Wade,Thomas,,,,,M,393,1i
+256,Chartist Song,Cooper,Thomas,,,,,M,220,1i
+257,Hymn,Adams,Sarah,Flower,,,,F,170,1i
+258,Love,Adams,Sarah,Flower,,,,F,170,1i
+259,Nearer to Thee,Adams,Sarah,Flower,,,,F,170,1i
+260,The Cry of the Children,Browning,Elizabeth,Barrett,,,,F,2,1i
+261,My Heart and I,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_1,Sonnets from the Portuguese I,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_4,Sonnets from the Portuguese IV,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_5,Sonnets from the Portuguese V,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_6,Sonnets from the Portuguese VI,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_9,Sonnets from the Portuguese IX,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_18,Sonnets from the Portuguese XVIII,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_20,Sonnets from the Portuguese XX,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_22,Sonnets from the Portuguese XXII,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_23,Sonnets from the Portuguese XXIII,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_26,Sonnets from the Portuguese XXVI,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_35,Sonnets from the Portuguese XXXV,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_38,Sonnets from the Portuguese XXXVIII,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_39,Sonnets from the Portuguese XXXIX,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_41,Sonnets from the Portuguese XLI,Browning,Elizabeth,Barrett,,,,F,2,1i
+0262_43,Sonnets from the Portuguese XLIII,Browning,Elizabeth,Barrett,,,,F,2,1i
+263,A Musical Instrument,Browning,Elizabeth,Barrett,,,,F,2,1i
+264,From “Casa Guidi Windows”,Browning,Elizabeth,Barrett,,,,F,2,1i
+265,A Court Lady,Browning,Elizabeth,Barrett,,,,F,2,1i
+266,Mother and Poet,Browning,Elizabeth,Barrett,,,,F,2,1i
+267,From “Aurora Leigh”,Browning,Elizabeth,Barrett,,,,F,2,1i
+268,The Sleep,Browning,Elizabeth,Barrett,,,,F,2,1i
+269,A Glee for Winter,Domett,Alfred,,,,,M,101,1i
+270,A Christmas Hymn,Domett,Alfred,,,,,M,101,1i
+271,From “A Christmas Hymn”,Domett,Alfred,,,,,M,101,1i
+272,Glenkindie,Scott,William,Bell,,,,M,154,1i
+273,Youth and Age,Scott,William,Bell,,,,M,154,1i
+274,Pygmalion,Scott,William,Bell,,,,M,154,1i
+275,My Mother,Scott,William,Bell,,,,M,154,1i
+276,The Norns Watering Yggdrasill,Scott,William,Bell,,,,M,154,1i
+277,To the Dead,Scott,William,Bell,,,,M,154,1i
+278,Hero-Worship,Scott,William,Bell,,,,M,154,1i
+279,Eviction,Linton,William,James,,,,M,300,1i
+280,Patience,Linton,William,James,,,,M,300,1i
+281,Our Cause,Linton,William,James,,,,M,300,1i
+282,Heart and Will,Linton,William,James,,,,M,300,1i
+283,From “A Threnody: In Memory of Albert Darasz”,Linton,William,James,,,,M,300,1i
+284,Love and Youth,Linton,William,James,,,,M,300,1i
+285,Too Late,Linton,William,James,,,,M,300,1i
+286,Weep Not! Sigh Not!,Linton,William,James,,,,M,300,1i
+287,Spring and Autumn,Linton,William,James,,,,M,300,1i
+288,Love’s Blindness,Linton,William,James,,,,M,300,1i
+289,The Silenced Singer,Linton,William,James,,,,M,300,1i
+290,Epicurean,Linton,William,James,,,,M,300,1i
+291,We ’ll a’ Go Pu’ the Heather,Nicoll,Robert,,,,,M,341,1i
+292,Bonnie Bessie Lee,Nicoll,Robert,,,,,M,341,1i
+293,The Hero,Nicoll,Robert,,,,,M,341,1i
+294,The People’s Petition,Call,Wathen,Mark ,Wilks,,,M,208,1i
+295,Summer Days,Call,Wathen,Mark ,Wilks,,,M,208,1i
+296,The Poem of the Universe,Weldon,Charles,,,,,M,402,1i
+297,Song,Brontë,Emily,,,,,F,5,1i
+298,The Old Stoic,Brontë,Emily,,,,,F,5,1i
+299,Warning and Reply,Brontë,Emily,,,,,F,5,1i
+300,Stanzas,Brontë,Emily,,,,,F,5,1i
+301,Her Last Lines,Brontë,Emily,,,,,F,5,1i
+302,“O May I Join the Choir Invisible”,Eliot,George,,,,,F,51,1i
+303,Songs from “The Spanish Gypsy.” I. The Dark,Eliot,George,,,,,F,51,1i
+304,Songs from “The Spanish Gypsy.” II. Song of the Zíncali,Eliot,George,,,,,F,51,1i
+305,Earth’s Burdens,Jones,Ernest,Charles,,,,M,116,1i
+306,The Wreck,Ruskin,John,,,,,M,362,1i
+307,Trust thou thy Love,Ruskin,John,,,,,M,362,1i
+308,Song of the Kings of Gold,Jones,Ebenezer,,,,,M,115,1i
+309,The Face,Jones,Ebenezer,,,,,M,115,1i
+310,From “Festus”,Bailey,Philip,James,,,,M,179,1j
+311,A Song of Farewell,Greenwell,Dora,,,,,F,54,1j
+312,To Christina Rossetti,Greenwell,Dora,,,,,F,54,1j
+313,Light,Macdonald,George,,,,,M,308,1j
+314,World and Soul,Macdonald,George,,,,,M,308,1j
+315,Baby,Macdonald,George,,,,,M,308,1j
+316,Song,Macdonald,George,,,,,M,308,1j
+317,The Deserter from the Cause,Massey,Gerald,,,,,M,62,1j
+318,Christie’s Portrait,Massey,Gerald,,,,,M,62,1j
+319,His Banner over Me,Massey,Gerald,,,,,M,62,1j
+320,From “A Life-Drama”,Smith,Alexander,,,,,M,158,1j
+321,Beauty,Smith,Alexander,,,,,M,158,1j
+322,To ——,Smith,Alexander,,,,,M,158,1j
+323,At Home in Heaven,Montgomery,James,,,,,M,331,1k
+324,Just As I Am,Elliott,Charlotte,,,,,F,243,1k
+325,Let Me Be with Thee,Elliott,Charlotte,,,,,F,243,1k
+326,Prayer to the Trinity,Edmeston,James,,,,,M,241,1k
+327,Hymn for the Sixteenth Sunday after Trinity,Milman,Henry,Hart,,,,M,325,1k
+328,Burial Hymn,Milman,Henry,Hart,,,,M,325,1k
+329,Ride on in Majesty,Milman,Henry,Hart,,,,M,325,1k
+330,Who Runs May Read,Keble,John,,,,,M,284,1k
+331,Seed Time Hymn,Keble,John,,,,,M,284,1k
+332,Holy Matrimony,Keble,John,,,,,M,284,1k
+333,From the Recesses,Bowring,John,,,,Sir,M,199,1k
+334,What of the Night?,Bowring,John,,,,Sir,M,199,1k
+335,Abide with Me,Lyte,Henry,Francis,,,,M,125,1k
+336,"“Lo, We Have Left All”",Lyte,Henry,Francis,,,,M,125,1k
+337,The Secret Place,Lyte,Henry,Francis,,,,M,125,1k
+338,Just for To-day,Wilberforce,Samuel,,,,,M,408,1k
+339,Giving to God,Wordsworth,Christopher,,,,,M,415,1k
+340,Lost but Found,Bonar,Horatius,,,,,M,197,1k
+341,The Voice from Galilee,Bonar,Horatius,,,,,M,197,1k
+342,"Thy Way, Not Mine",Bonar,Horatius,,,,,M,197,1k
+343,Abide with Us,Bonar,Horatius,,,,,M,197,1k
+344,The Master’s Touch,Bonar,Horatius,,,,,M,197,1k
+345,A Little While,Bonar,Horatius,,,,,M,197,1k
+346,Litany,Monsell,John,Samuel,Bewley,,,M,329,1k
+347,The Will of God,Faber,Frederick,William,,,,M,244,1k
+348,Paradise,Faber,Frederick,William,,,,M,244,1k
+349,The Right Must Win,Faber,Frederick,William,,,,M,244,1k
+350,Teach Us to Die,Stanley,Arthur,Penrhyn,,,,M,378,1k
+351,My Times Are in Thy Hand,Hall,Christopher,Newman,,,,M,260,1k
+352,A Prayer,Brontë,Anne,,,,,F,52,1k
+353,"O Lord, Thy Wing Outspread",Blew,William,John,,,,M,195,1k
+354,There Is a Green Hill,Alexander,Cecil,Frances,,,,M,174,1k
+355,The Lost Sheep,Clephane,Elizabeth,Cecilia,,,,F,217,1k
+356,Child’s Evening Hymn,Baring-Gould,Sabine,,,,,M,23,1k
+357,I Gave My Life for Thee,Havergal,Frances,Ridley,,,,F,22,1k
+359,Thirty-first of May,Tennyson,Frederick,,,,,M,162,2a
+360,The Blackbird,Tennyson,Frederick,,,,,M,162,2a
+361,From “Niobe”,Tennyson,Frederick,,,,,M,162,2a
+362,The Lion’s Skeleton,Turner,Charles,Tennyson,,,,M,165,2a
+363,The Vacant Cage,Turner,Charles,Tennyson,,,,M,165,2a
+364,The Lachrymatory,Turner,Charles,Tennyson,,,,M,165,2a
+365,The Buoy-Bell,Turner,Charles,Tennyson,,,,M,165,2a
+366,The Forest Glade,Turner,Charles,Tennyson,,,,M,165,2a
+367,The Lattice at Sunrise,Turner,Charles,Tennyson,,,,M,165,2a
+368,The Rookery,Turner,Charles,Tennyson,,,,M,165,2a
+369,Orion,Turner,Charles,Tennyson,,,,M,165,2a
+370,To the Gossamer-Light,Turner,Charles,Tennyson,,,,M,165,2a
+371,Letty’s Globe,Turner,Charles,Tennyson,,,,M,165,2a
+372,Her First-Born,Turner,Charles,Tennyson,,,,M,165,2a
+373,The Deserted House,Tennyson,Alfred,,,,1st Baron,M,3,2a
+374,The Lotos-Eaters,Tennyson,Alfred,,,,1st Baron,M,3,2a
+375,Ulysses,Tennyson,Alfred,,,,1st Baron,M,3,2a
+376,Sir Galahad,Tennyson,Alfred,,,,1st Baron,M,3,2a
+377,Sir Launcelot and Queen Guinevere,Tennyson,Alfred,,,,1st Baron,M,3,2a
+378,"Break, Break, Break",Tennyson,Alfred,,,,1st Baron,M,3,2a
+379,Songs from “The Princess.” I. As thro’ the Land,Tennyson,Alfred,,,,1st Baron,M,3,2a
+380,Songs from “The Princess.” II. Sweet and Low,Tennyson,Alfred,,,,1st Baron,M,3,2a
+381,Songs from “The Princess.” III. Bugle Song,Tennyson,Alfred,,,,1st Baron,M,3,2a
+382,"Songs from “The Princess.” IV. Tears, Idle Tears",Tennyson,Alfred,,,,1st Baron,M,3,2a
+383,Songs from “The Princess.” V. Thy Voice Is Heard,Tennyson,Alfred,,,,1st Baron,M,3,2a
+384,Songs from “The Princess.” VI. Ask Me No More,Tennyson,Alfred,,,,1st Baron,M,3,2a
+385,Ode on the Death of the Duke of Wellington,Tennyson,Alfred,,,,1st Baron,M,3,2a
+386,The Charge of the Light Brigade,Tennyson,Alfred,,,,1st Baron,M,3,2a
+387,Northern Farmer,Tennyson,Alfred,,,,1st Baron,M,3,2a
+388,The Daisy,Tennyson,Alfred,,,,1st Baron,M,3,2a
+389,The Flower,Tennyson,Alfred,,,,1st Baron,M,3,2a
+390,"Come into the Garden, Maud",Tennyson,Alfred,,,,1st Baron,M,3,2a
+391,The Shell,Tennyson,Alfred,,,,1st Baron,M,3,2a
+392,The Passing of Arthur,Tennyson,Alfred,,,,1st Baron,M,3,2a
+393,Rizpah,Tennyson,Alfred,,,,1st Baron,M,3,2a
+394,Flower in the Crannied Wall,Tennyson,Alfred,,,,1st Baron,M,3,2a
+395,Song in “The Foresters”,Tennyson,Alfred,,,,1st Baron,M,3,2a
+396,Vastness,Tennyson,Alfred,,,,1st Baron,M,3,2a
+397,The Silent Voices,Tennyson,Alfred,,,,1st Baron,M,3,2a
+398,Crossing the Bar,Tennyson,Alfred,,,,1st Baron,M,3,2a
+399,Wellington,Disraeli,Benjamin,,,,1st earl of Beaconsfield,M,234,2a
+400,O Wind of the Mountain!,Westwood,Thomas,,,,,M,404,2a
+401,In the Golden Morning of the World,Westwood,Thomas,,,,,M,404,2a
+402,In a Lecture-Room,Clough,Arthur,Hugh,,,,M,6,2a
+403,A Protest,Clough,Arthur,Hugh,,,,M,6,2a
+404,Qua Cursum Ventus,Clough,Arthur,Hugh,,,,M,6,2a
+405,From “The Bothie of Tober-Na-Vuolich”,Clough,Arthur,Hugh,,,,M,6,2a
+406,Peschiera,Clough,Arthur,Hugh,,,,M,6,2a
+407,From “Amours De Voyage”,Clough,Arthur,Hugh,,,,M,6,2a
+408,"Ite Domum Saturæ, Venit Hesperus",Clough,Arthur,Hugh,,,,M,6,2a
+409,Ah! Yet Consider It Again,Clough,Arthur,Hugh,,,,M,6,2a
+410,Where Lies the Land,Clough,Arthur,Hugh,,,,M,6,2a
+411,Cailleach Bein-Y-Vreich,Shairp,John,Campbell,,,,M,369,2a
+412,The Little Fair Soul,Smedley,Menella,Bute,,,,F,157,2a
+413,The Dried-up Fountain,Leighton,Robert,,,,,M,121,2a
+414,Written in Emerson’s Essays,Arnold,Matthew,,,,,M,7,2a
+415,The World and the Quietist,Arnold,Matthew,,,,,M,7,2a
+416,From “Sohrab and Rustum”,Arnold,Matthew,,,,,M,7,2a
+417,From “Balder Dead”,Arnold,Matthew,,,,,M,7,2a
+418,The Forsaken Merman,Arnold,Matthew,,,,,M,7,2a
+419,Philomela,Arnold,Matthew,,,,,M,7,2a
+420,Dover Beach,Arnold,Matthew,,,,,M,7,2a
+421,From “Empedocles on Etna”,Arnold,Matthew,,,,,M,7,2a
+422,The Buried Life,Arnold,Matthew,,,,,M,7,2a
+423,Memorial Verses,Arnold,Matthew,,,,,M,7,2a
+424,Geist’s Grave,Arnold,Matthew,,,,,M,7,2a
+425,Pope at Twickenham,Kent,Charles,,,,,M,288,2a
+426,To La Sansœur,Roscoe,William,Caldwell,,,,M,150,2a
+427,The Master-Chord,Roscoe,William,Caldwell,,,,M,150,2a
+428,Earth,Roscoe,William,Caldwell,,,,M,150,2a
+429,Mimnermus in Church,Cory,William,Johnson,,,,M,99,2a
+430,Heracleitus,Cory,William,Johnson,,,,M,99,2a
+431,A Poor French Sailor’s Scottish Sweetheart,Cory,William,Johnson,,,,M,99,2a
+432,Epitaph of Dionysia,Anonymous,,,,,,U,35,2a
+433,From “The Angel in the House”,Patmore,Coventry,Kersey,Dighton,,,M,56,2a
+434,The Girl of All Periods,Patmore,Coventry,Kersey,Dighton,,,M,56,2a
+435,From “The Unknown Eros”,Patmore,Coventry,Kersey,Dighton,,,M,56,2a
+436,Regina Cœli,Patmore,Coventry,Kersey,Dighton,,,M,56,2a
+437,Daughters of Philistia,Smith,Walter,C.,,,,M,159,2a
+438,The Self-Exiled,Smith,Walter,C.,,,,M,159,2a
+439,The Ancient and Modern Muses,Palgrave,Francis,Turner,,,,M,345,2a
+440,Pro Mortuis,Palgrave,Francis,Turner,,,,M,345,2a
+441,William Wordsworth,Palgrave,Francis,Turner,,,,M,345,2a
+442,A Little Child’s Hymn,Palgrave,Francis,Turner,,,,M,345,2a
+443,A Danish Barrow,Palgrave,Francis,Turner,,,,M,345,2a
+444,Tennyson,Huxley,Thomas,Henry,,,,M,277,2a
+445,Doris: A Pastoral,Munby,Arthur,Joseph,,,,M,63,2a
+446,From “Dorothy: a Country Story.” I. Dorothy,Munby,Arthur,Joseph,,,,M,63,2a
+447,From “Dorothy: a Country Story.” II. Country Kisses,Munby,Arthur,Joseph,,,,M,63,2a
+448,From “Dorothy: a Country Story.” III. Dorothy’s Room,Munby,Arthur,Joseph,,,,M,63,2a
+449,From “Dorothy: a Country Story.” IV. Beauty at the Plough,Munby,Arthur,Joseph,,,,M,63,2a
+450,Flos Florum,Munby,Arthur,Joseph,,,,M,63,2a
+451,Sweet Nature’s Voice,Munby,Arthur,Joseph,,,,M,63,2a
+452,The Woodruffe,Knox,Isa,Craig,,,,F,290,2a
+453,From “The Light of Asia”,Arnold,Edwin,,,,Sir,M,176,2a
+454,The Caliph’s Draught,Arnold,Edwin,,,,Sir,M,176,2a
+455,After Death in Arabia,Arnold,Edwin,,,,Sir,M,176,2a
+456,Raglan,Arnold,Edwin,,,,Sir,M,176,2a
+457,From “With Sa’di in the Garden.” I. Mahmud and Ayaz: A Paraphrase on Sa’Di,Arnold,Edwin,,,,Sir,M,176,2a
+458,From “With Sa’di in the Garden.” II. Song without a Sound,Arnold,Edwin,,,,Sir,M,176,2a
+459,The Musmee,Arnold,Edwin,,,,Sir,M,176,2a
+460,Versailles,Brooke,Stopford,Augustus,,,,M,200,2a
+461,The Jungfrau’s Cry,Brooke,Stopford,Augustus,,,,M,200,2a
+462,Songs from “Riquet of the Tuft.” I. Queen’s Song,Brooke,Stopford,Augustus,,,,M,200,2a
+463,Songs from “Riquet of the Tuft.” II. Prince Riquet’s Song,Brooke,Stopford,Augustus,,,,M,200,2a
+464,Mare Mediterraneum,Nichol,John,,,,,M,339,2a
+465,H. W. L.,Nichol,John,,,,,M,339,2a
+466,Bedtime,Rosslyn,Robert,Francis ,St.Clair,Erskine,Earl of Rosslyn,M,361,2a
+467,Memory,Rosslyn,Robert,Francis ,St.Clair,Erskine,Earl of Rosslyn,M,361,2a
+468,At Last,Morris,Lewis,,,,Sir,M,333,2a
+469,Song,Morris,Lewis,,,,Sir,M,333,2a
+470,On a Thrush Singing in Autumn,Morris,Lewis,,,,Sir,M,333,2a
+471,The Sanyassi,Hamerton,Philip,Gilbert,,,,M,262,2a
+472,The Wild Huntsmen,Hamerton,Philip,Gilbert,,,,M,262,2a
+473,The Secret of the Nightingale,Noel,Roden,Berkeley,Wriothesley,,,M,342,2a
+474,Sea Slumber-Song,Noel,Roden,Berkeley,Wriothesley,,,M,342,2a
+475,Dying,Noel,Roden,Berkeley,Wriothesley,,,M,342,2a
+476,The Merry-Go-Round,Noel,Roden,Berkeley,Wriothesley,,,M,342,2a
+477,Lament,Noel,Roden,Berkeley,Wriothesley,,,M,342,2a
+478,The Toy Cross,Noel,Roden,Berkeley,Wriothesley,,,M,342,2a
+479,“That They All May Be One”,Noel,Roden,Berkeley,Wriothesley,,,M,342,2a
+480,Meditations of a Hindu Prince,Lyall,Alfred,Comyns,,,Sir,M,124,2a
+481,At His Grave,Austin,Alfred,,,,,M,14,2a
+482,Songs from “Prince Lucifer.” I. Grave-Digger’s Song,Austin,Alfred,,,,,M,14,2a
+483,Songs from “Prince Lucifer.” II. Mother-Song,Austin,Alfred,,,,,M,14,2a
+484,Agatha,Austin,Alfred,,,,,M,14,2a
+485,The Haymakers’ Song,Austin,Alfred,,,,,M,14,2a
+486,Marian,Ashe,Thomas,,,,,M,36,2a
+487,Phantoms,Ashe,Thomas,,,,,M,36,2a
+488,By the Salpétrière,Ashe,Thomas,,,,,M,36,2a
+489,A Vision of Children,Ashe,Thomas,,,,,M,36,2a
+490,Poeta Nascitur,Ashe,Thomas,,,,,M,36,2a
+491,Ode to Mother Carey’s Chicken,Watts-Dunton,Theodore,,,,,M,397,2a
+492,The Sonnet’s Voice,Watts-Dunton,Theodore,,,,,M,397,2a
+493,Coleridge,Watts-Dunton,Theodore,,,,,M,397,2a
+494,The Breath of Avon,Watts-Dunton,Theodore,,,,,M,397,2a
+495,The First Kiss,Watts-Dunton,Theodore,,,,,M,397,2a
+496,John the Pilgrim,Watts-Dunton,Theodore,,,,,M,397,2a
+497,Natura Benigna,Watts-Dunton,Theodore,,,,,M,397,2a
+498,Natura Maligna,Watts-Dunton,Theodore,,,,,M,397,2a
+499,The Dear Old Toiling One,Gray,David,,,,,M,106,2a
+500,"I Die, Being Young",Gray,David,,,,,M,106,2a
+501,My Epitaph,Gray,David,,,,,M,106,2a
+502,An Episode,Symonds,John,Addington,,,,M,383,2a
+503,Lux Est Umbra Dei,Symonds,John,Addington,,,,M,383,2a
+504,The Nightingale,Symonds,John,Addington,,,,M,383,2a
+505,The Fall of a Soul,Symonds,John,Addington,,,,M,383,2a
+506,Farewell,Symonds,John,Addington,,,,M,383,2a
+507,Il Fior Degli Eroici Furori,Symonds,John,Addington,,,,M,383,2a
+508,Venice,Symonds,John,Addington,,,,M,383,2a
+509,Thyself,Symonds,John,Addington,,,,M,383,2a
+510,The Sonnet,Symonds,John,Addington,,,,M,383,2a
+511,A Music Lesson,Japp,Alexander,Hay,,,,M,281,2a
+512,Landor,Japp,Alexander,Hay,,,,M,281,2a
+513,Shelley,Japp,Alexander,Hay,,,,M,281,2a
+514,Memories,Japp,Alexander,Hay,,,,M,281,2a
+515,Song,Monkhouse,Cosmo,,,,,M,135,2a
+516,A Dead March,Monkhouse,Cosmo,,,,,M,135,2a
+517,The Spectrum,Monkhouse,Cosmo,,,,,M,135,2a
+518,The Secret,Monkhouse,Cosmo,,,,,M,135,2a
+519,The Ballad of Judas Iscariot,Buchanan,Robert,,,,,M,418,2a
+520,Spring Song in the City,Buchanan,Robert,,,,,M,418,2a
+521,The Wake of Tim O’Hara,Buchanan,Robert,,,,,M,418,2a
+522,Two Sons,Buchanan,Robert,,,,,M,418,2a
+523,On a Young Poetess’s Grave,Buchanan,Robert,,,,,M,418,2a
+524,The Summer Pool,Buchanan,Robert,,,,,M,418,2a
+525,We Are Children,Buchanan,Robert,,,,,M,418,2a
+526,When We Are All Asleep,Buchanan,Robert,,,,,M,418,2a
+527,The Dream of the World without Death,Buchanan,Robert,,,,,M,418,2a
+528,The Faëry Foster-Mother,Buchanan,Robert,,,,,M,418,2a
+529,The Churchyard,Buchanan,Robert,,,,,M,418,2a
+530,A Song of Winter,Pfeiffer,Emily,,,,,F,142,2a
+531,To a Moth That Drinketh of the Ripe October,Pfeiffer,Emily,,,,,F,142,2a
+532,To the Herald Honeysuckle,Pfeiffer,Emily,,,,,F,142,2a
+533,From “Saint Paul”,Myers,Frederic,William,Henry,,,M,337,2a
+534,A Song,Myers,Frederic,William,Henry,,,M,337,2a
+535,On a Grave at Grindelwald,Myers,Frederic,William,Henry,,,M,337,2a
+536,A Last Appeal,Myers,Frederic,William,Henry,,,M,337,2a
+537,Immortality,Myers,Frederic,William,Henry,,,M,337,2a
+538,A Letter from Newport,Myers,Frederic,William,Henry,,,M,337,2a
+539,"I Saw, I Saw the Lovely Child",Myers,Frederic,William,Henry,,,M,337,2a
+540,Renunciants,Dowden,Edward,,,,,M,69,2a
+541,Leonardo’s “Monna Lisa”,Dowden,Edward,,,,,M,69,2a
+542,Two Infinities,Dowden,Edward,,,,,M,69,2a
+543,First or Last?,Veley,Margaret,,,,,F,391,2a
+544,A May Song,Fane,Violet ,,,,,F,245,2a
+545,A Foreboding,Fane,Violet ,,,,,F,245,2a
+546,In Green Old Gardens,Fane,Violet ,,,,,F,245,2a
+547,Afterwards,Fane,Violet ,,,,,F,245,2a
+548,The Inn of Care,Waddington,Samuel,,,,,M,392,2a
+549,Soul and Body,Waddington,Samuel,,,,,M,392,2a
+550,Gordon,Myers,Ernest,,,,,M,336,2a
+551,"Etsi Omnes, Ego Non",Myers,Ernest,,,,,M,336,2a
+552,“The Seamaids’ Music”,Myers,Ernest,,,,,M,336,2a
+553,Autumn Memories,Savage-Armstrong,George,Francis,,,,M,364,2a
+554,The Mystery,Savage-Armstrong,George,Francis,,,,M,364,2a
+555,One in the Infinite,Savage-Armstrong,George,Francis,,,,M,364,2a
+556,My Guide,Savage-Armstrong,George,Francis,,,,M,364,2a
+557,“The Father”,Savage-Armstrong,George,Francis,,,,M,364,2a
+558,The Soul Stithy,Woods,James,Chapman,,,,M,412,2a
+559,The World’s Death-Night,Woods,James,Chapman,,,,M,412,2a
+560,Kathleen Mavourneen,Crawford,Louisa,Macartney,,,,F,228,2b
+561,The Old Cavalier,Doyle,Francis,Hastings,,,,M,238,2b
+562,The Private of the Buffs,Doyle,Francis,Hastings,,,,M,238,2b
+563,At the Church Gate,Thackeray,William,Makepeace,,,,M,163,2b
+564,The Ballad of Bouillabaisse,Thackeray,William,Makepeace,,,,M,163,2b
+565,The Age of Wisdom,Thackeray,William,Makepeace,,,,M,163,2b
+566,Sorrows of Werther,Thackeray,William,Makepeace,,,,M,163,2b
+567,The Pen and the Album,Thackeray,William,Makepeace,,,,M,163,2b
+568,The Mahogany Tree,Thackeray,William,Makepeace,,,,M,163,2b
+569,The End of the Play,Thackeray,William,Makepeace,,,,M,163,2b
+570,From “The Saint’s Tragedy”,Kingsley,Charles,,,,,M,118,2b
+571,The Sands of Dee,Kingsley,Charles,,,,,M,118,2b
+572,The Three Fishers,Kingsley,Charles,,,,,M,118,2b
+573,A Myth,Kingsley,Charles,,,,,M,118,2b
+574,The Dead Church,Kingsley,Charles,,,,,M,118,2b
+575,Andromeda and the Sea-Nymphs,Kingsley,Charles,,,,,M,118,2b
+576,The Last Buccaneer,Kingsley,Charles,,,,,M,118,2b
+577,Lorraine,Kingsley,Charles,,,,,M,118,2b
+578,A Farewell,Kingsley,Charles,,,,,M,118,2b
+579,A Woman’s Question,Procter,Adelaide,Anne,,,,F,8,2b
+580,A Doubting Heart,Procter,Adelaide,Anne,,,,F,8,2b
+581,The Requital,Procter,Adelaide,Anne,,,,F,8,2b
+582,Per Pacem Ad Lucem,Procter,Adelaide,Anne,,,,F,8,2b
+583,"Philip, My King",Craik,Dinah,Maria,Mulock,,,F,225,2b
+584,Too Late,Craik,Dinah,Maria,Mulock,,,F,225,2b
+585,The Flitch of Dunmow,Carnegie,James,,,,9th Earl of Southesk,M,377,2b
+586,November’s Cadence,Carnegie,James,,,,9th Earl of Southesk,M,377,2b
+587,A Greek Idyl,Collins,Mortimer,,,,,M,60,2b
+588,Kate Temple’s Song,Collins,Mortimer,,,,,M,60,2b
+589,The Ivory Gate,Collins,Mortimer,,,,,M,60,2b
+590,The Fairies,Allingham,William,,,,,M,57,2b
+591,Lovely Mary Donnelly,Allingham,William,,,,,M,57,2b
+592,The Sailor,Allingham,William,,,,,M,57,2b
+593,A Dream,Allingham,William,,,,,M,57,2b
+594,Half-Waking,Allingham,William,,,,,M,57,2b
+595,Day and Night Songs,Allingham,William,,,,,M,57,2b
+596,The Three Scars,Thornbury,George,Walter,,,,M,386,2b
+597,Melting of the Earl’s Plate,Thornbury,George,Walter,,,,M,386,2b
+598,The Three Troopers,Thornbury,George,Walter,,,,M,386,2b
+599,The White Rose over the Water,Thornbury,George,Walter,,,,M,386,2b
+600,The Jacobite on Tower Hill,Thornbury,George,Walter,,,,M,386,2b
+601,The Death of Marlborough,Thornbury,George,Walter,,,,M,386,2b
+602,The Old Grenadier’s Story,Thornbury,George,Walter,,,,M,386,2b
+603,The Laird of Schelynlaw,Veitch,John,,,,,M,390,2b
+604,The High Tide on the Coast of Lincolnshire,Ingelow,Jean,,,,,F,53,2b
+605,Sailing beyond Seas,Ingelow,Jean,,,,,F,53,2b
+606,The Long White Seam,Ingelow,Jean,,,,,F,53,2b
+607,Crossing the Blackwater,Joyce,Robert,Dwyer,,,,M,283,2b
+608,To God and Ireland True,O’Leary,Ellen,,,,,F,343,2b
+609,Remember or Forget,Aïdé,Hamilton,,,,,M,172,2b
+610,The Danube River,Aïdé,Hamilton,,,,,M,172,2b
+611,When We Are Parted,Aïdé,Hamilton,,,,,M,172,2b
+612,The Forsaken,Aïdé,Hamilton,,,,,M,172,2b
+613,Mother Wept,Skipsey,Joseph,,,,,M,156,2b
+614,The Dewdrop,Skipsey,Joseph,,,,,M,156,2b
+615,The Butterfly,Skipsey,Joseph,,,,,M,156,2b
+616,The Island of Shadows,Garnett,Richard,,,,,M,250,2b
+617,The Fair Circassian,Garnett,Richard,,,,,M,250,2b
+618,The Ballad of the Boat,Garnett,Richard,,,,,M,250,2b
+619,The Lyrical Poem,Garnett,Richard,,,,,M,250,2b
+620,The Didactic Poem,Garnett,Richard,,,,,M,250,2b
+621,On an Urn,Garnett,Richard,,,,,M,250,2b
+622,Age,Garnett,Richard,,,,,M,250,2b
+623,To America,Garnett,Richard,,,,,M,250,2b
+624,The Banshee,Todhunter,John,,,,,M,164,2b
+625,The Glory of Motion,Tyrwhitt,Richard,St. John,,,,M,389,2b
+626,Rus In Urbe,Scott,Clement,William,,,,M,366,2b
+627,Lilian Adelaide Neilson,Scott,Clement,William,,,,M,366,2b
+628,Omàr and the Persian,Williams,Sarah,,,,,F,410,2b
+629,Queen Elizabeth,Williams,Sarah,,,,,F,410,2b
+630,Sonnet,Lindsay,Elizabeth,Blanche,,,Lady,F,299,2b
+631,My Heart Is a Lute,Lindsay,Elizabeth,Blanche,,,Lady,F,299,2b
+632,Old Souls,Hake,Thomas,Gordon,,,,M,108,2c
+633,The Sibyl,Hake,Thomas,Gordon,,,,M,108,2c
+634,From His Paraphrase of the Rubáiyát of Omár Khayyám,FitzGerald,Edward,,,,,M,247,2c
+635,R. B.,Meredith,George,,,,,M,9,2c
+636,Song from “Paracelsus”,Browning,Robert,,,,,M,4,2c
+637,Cavalier Tunes. I. Marching Along,Browning,Robert,,,,,M,4,2c
+638,Cavalier Tunes. II. Give a Rouse,Browning,Robert,,,,,M,4,2c
+639,Cavalier Tunes. III. Boot and Saddle,Browning,Robert,,,,,M,4,2c
+640,My Last Duchess,Browning,Robert,,,,,M,4,2c
+641,Incident of the French Camp,Browning,Robert,,,,,M,4,2c
+642,In a Gondola,Browning,Robert,,,,,M,4,2c
+643,Song from “Pippa Passes”,Browning,Robert,,,,,M,4,2c
+644,“How They Brought the Good News from Ghent to Aix”,Browning,Robert,,,,,M,4,2c
+645,The Lost Leader,Browning,Robert,,,,,M,4,2c
+646,Youth and Art,Browning,Robert,,,,,M,4,2c
+647,Home Thoughts from Abroad,Browning,Robert,,,,,M,4,2c
+648,A Face,Browning,Robert,,,,,M,4,2c
+649,“De Gustibus—”,Browning,Robert,,,,,M,4,2c
+650,The Bishop Orders His Tomb at Saint Praxed’s Church,Browning,Robert,,,,,M,4,2c
+651,Meeting at Night,Browning,Robert,,,,,M,4,2c
+652,Parting at Morning,Browning,Robert,,,,,M,4,2c
+653,Evelyn Hope,Browning,Robert,,,,,M,4,2c
+654,“Childe Roland to the Dark Tower Came”,Browning,Robert,,,,,M,4,2c
+655,Respectability,Browning,Robert,,,,,M,4,2c
+656,Memorabilia,Browning,Robert,,,,,M,4,2c
+657,One Way of Love,Browning,Robert,,,,,M,4,2c
+658,One Word More,Browning,Robert,,,,,M,4,2c
+659,Abt Vogler,Browning,Robert,,,,,M,4,2c
+660,Prospice,Browning,Robert,,,,,M,4,2c
+661,Misconceptions,Browning,Robert,,,,,M,4,2c
+662,Epitaph,Browning,Robert,,,,,M,4,2c
+663,Muckle-Mouth Meg,Browning,Robert,,,,,M,4,2c
+664,Epilogue,Browning,Robert,,,,,M,4,2c
+665,How ’s My Boy?,Dobell,Sydney,,,,,M,58,2c
+666,A Nuptial Eve,Dobell,Sydney,,,,,M,58,2c
+667,Tommy ’s Dead,Dobell,Sydney,,,,,M,58,2c
+668,Home in War-Time,Dobell,Sydney,,,,,M,58,2c
+669,America,Dobell,Sydney,,,,,M,58,2c
+670,Epigram on the Death of Edward Forbes,Dobell,Sydney,,,,,M,58,2c
+671,Sea Ballad,Dobell,Sydney,,,,,M,58,2c
+672,"Dante, Shakespeare, Milton",Dobell,Sydney,,,,,M,58,2c
+673,On the Death of Mrs. Browning,Dobell,Sydney,,,,,M,58,2c
+674,Fragment of a Sleep-Song,Dobell,Sydney,,,,,M,58,2c
+675,From “Modern Love.” I. “All Other Joys”,Meredith,George,,,,,M,9,2c
+676,From “Modern Love.” II. Hiding the Skeleton,Meredith,George,,,,,M,9,2c
+677,From “Modern Love.” III. The Coin of Pity,Meredith,George,,,,,M,9,2c
+678,From “Modern Love.” IV. One Twilight Hour,Meredith,George,,,,,M,9,2c
+679,Juggling Jerry,Meredith,George,,,,,M,9,2c
+680,The Lark Ascending,Meredith,George,,,,,M,9,2c
+681,Lucifer in Starlight,Meredith,George,,,,,M,9,2c
+682,The Spirit of Shakespeare,Meredith,George,,,,,M,9,2c
+683,The Two Masks,Meredith,George,,,,,M,9,2c
+684,A Dirge for Summer,Evans,Sebastian,,,,,M,104,2c
+685,What the Trumpeter Said,Evans,Sebastian,,,,,M,104,2c
+686,The Unseen World. I. At Home,Rossetti,Christina,Georgina,,,,F,11,2c
+687,The Unseen World. II. Remember,Rossetti,Christina,Georgina,,,,F,11,2c
+688,The Unseen World. III. After Death,Rossetti,Christina,Georgina,,,,F,11,2c
+689,The Unseen World. IV. Wife to Husband,Rossetti,Christina,Georgina,,,,F,11,2c
+690,The Unseen World. V. Up-Hill,Rossetti,Christina,Georgina,,,,F,11,2c
+691,“It Is Finished”,Rossetti,Christina,Georgina,,,,F,11,2c
+692,From “Monna Innominata.” I. Agnegation,Rossetti,Christina,Georgina,,,,F,11,2c
+693,From “Monna Innominata.” II. Trust,Rossetti,Christina,Georgina,,,,F,11,2c
+694,Fluttered Wings,Rossetti,Christina,Georgina,,,,F,11,2c
+695,Passing and Glassing,Rossetti,Christina,Georgina,,,,F,11,2c
+696,The Thread of Life,Rossetti,Christina,Georgina,,,,F,11,2c
+697,From “Later Life”,Rossetti,Christina,Georgina,,,,F,11,2c
+698,An Echo from Willowwood,Rossetti,Christina,Georgina,,,,F,11,2c
+699,Twist Me a Crown,Rossetti,Christina,Georgina,,,,F,11,2c
+700,Good-By,Rossetti,Christina,Georgina,,,,F,11,2c
+701,Indian Love-Song,Bulwer-Lytton,Robert,,,,1st earl of Lytton,M,205,2c
+702,Aux Italiens,Bulwer-Lytton,Robert,,,,1st earl of Lytton,M,205,2c
+703,The Chess-Board,Bulwer-Lytton,Robert,,,,1st earl of Lytton,M,205,2c
+704,Tempora Acta,Bulwer-Lytton,Robert,,,,1st earl of Lytton,M,205,2c
+705,The Dinner Hour,Bulwer-Lytton,Robert,,,,1st earl of Lytton,M,205,2c
+706,The Legend of the Dead Lambs,Bulwer-Lytton,Robert,,,,1st earl of Lytton,M,205,2c
+707,The Utmost,Bulwer-Lytton,Robert,,,,1st earl of Lytton,M,205,2c
+708,Melencolia,Thomson,James,,,,,M,12,2c
+709,Life’s Hebe,Thomson,James,,,,,M,12,2c
+710,From “He Heard Her Sing”,Thomson,James,,,,,M,12,2c
+711,Palmermo,King,Harriet,Eleanor,,Hamilton,,F,117,2c
+712,The Crocus,King,Harriet,Eleanor,,Hamilton,,F,117,2c
+713,"For the Picture, “The Last of England”",Brown,Ford,Madox,,,,M,202,2d
+714,O. M. B.,Brown,Ford,Madox,,,,M,202,2d
+715,Requiem,Paton,Joseph,Noel,,,Sir,M,348,2d
+716,The Last of the Eurydice,Paton,Joseph,Noel,,,Sir,M,348,2d
+717,My Beautiful Lady,Woolner,Thomas,,,,,M,414,2d
+718,Given Over,Woolner,Thomas,,,,,M,414,2d
+719,The Blessed Damozel,Rossetti,Dante,Gabriel,,,,M,10,2d
+720,The Portrait,Rossetti,Dante,Gabriel,,,,M,10,2d
+721,From “The House of Life: a Sonnet-Sequence.” I. Introductory,Rossetti,Dante,Gabriel,,,,M,10,2d
+722,From “The House of Life: a Sonnet-Sequence.” II. Lovesight,Rossetti,Dante,Gabriel,,,,M,10,2d
+723,From “The House of Life: a Sonnet-Sequence.” III. Her Gifts,Rossetti,Dante,Gabriel,,,,M,10,2d
+724,From “The House of Life: a Sonnet-Sequence.” IV. The Dark Glass,Rossetti,Dante,Gabriel,,,,M,10,2d
+725,From “The House of Life: a Sonnet-Sequence.” V. Without Her,Rossetti,Dante,Gabriel,,,,M,10,2d
+726,From “The House of Life: a Sonnet-Sequence.” VI. Broken Music,Rossetti,Dante,Gabriel,,,,M,10,2d
+727,From “The House of Life: a Sonnet-Sequence.” VII. Inclusiveness,Rossetti,Dante,Gabriel,,,,M,10,2d
+728,From “The House of Life: a Sonnet-Sequence.” VIII. A Superscription,Rossetti,Dante,Gabriel,,,,M,10,2d
+729,Sonnets on Pictures. I. A Venetian Pastoral,Rossetti,Dante,Gabriel,,,,M,10,2d
+730,Sonnets on Pictures. II. Mary Magdalene,Rossetti,Dante,Gabriel,,,,M,10,2d
+731,Sudden Light,Rossetti,Dante,Gabriel,,,,M,10,2d
+732,The Woodspurge,Rossetti,Dante,Gabriel,,,,M,10,2d
+733,The Sea-Limits,Rossetti,Dante,Gabriel,,,,M,10,2d
+734,A Little While,Rossetti,Dante,Gabriel,,,,M,10,2d
+735,The Ballad of Dead Ladies,Rossetti,Dante,Gabriel,,,,M,10,2d
+736,Ode on Conflicting Claims,Dixon,Richard,Watson,,,,M,100,2d
+737,Humanity,Dixon,Richard,Watson,,,,M,100,2d
+738,From “Mano: a Poetical History.” I. The Skylark,Dixon,Richard,Watson,,,,M,100,2d
+739,"From “Mano: a Poetical History.” II. Of a Vision of Hell, Which a Monk Had",Dixon,Richard,Watson,,,,M,100,2d
+740,From “Mano: a Poetical History.” III. Of Temperance in Fortune,Dixon,Richard,Watson,,,,M,100,2d
+741,The Gillyflower of Gold,Morris,William,,,,,M,13,2d
+742,Shameful Death,Morris,William,,,,,M,13,2d
+743,The Blue Closet,Morris,William,,,,,M,13,2d
+744,From “The Earthly Paradise.” I. The Singer’s Prelude,Morris,William,,,,,M,13,2d
+745,From “The Earthly Paradise.” II. Atalanta’s Victory,Morris,William,,,,,M,13,2d
+746,From “The Earthly Paradise.” III. Atalanta’s Defeat,Morris,William,,,,,M,13,2d
+747,From “The Earthly Paradise.” IV. The King’s Visit,Morris,William,,,,,M,13,2d
+748,From “The Earthly Paradise.” V. Song: to Psyche,Morris,William,,,,,M,13,2d
+749,From “The Earthly Paradise.” VI. A Land Across the Sea,Morris,William,,,,,M,13,2d
+750,From “The Earthly Paradise.” VII. Antiphony,Morris,William,,,,,M,13,2d
+751,From “Sigurd the Volsung.” I. Of the Passing Away of Brynhild,Morris,William,,,,,M,13,2d
+752,From “Sigurd the Volsung.” II. The Burghers’ Battle,Morris,William,,,,,M,13,2d
+753,From “Sigurd the Volsung.” III. A Death Song,Morris,William,,,,,M,13,2d
+754,A Woodland Grave,Warren,John ,Byrne,Leicester,,Baron de Tabley,M,396,2d
+755,A Simple Maid,Warren,John ,Byrne,Leicester,,Baron de Tabley,M,396,2d
+756,Fortune’s Wheel,Warren,John ,Byrne,Leicester,,Baron de Tabley,M,396,2d
+757,Circe,Warren,John ,Byrne,Leicester,,Baron de Tabley,M,396,2d
+758,A Song of Faith Forsworn,Warren,John ,Byrne,Leicester,,Baron de Tabley,M,396,2d
+759,The Two Old Kings,Warren,John ,Byrne,Leicester,,Baron de Tabley,M,396,2d
+760,A Match,Swinburne,Algernon,Charles,,,,M,16,2d
+761,Hesperia,Swinburne,Algernon,Charles,,,,M,16,2d
+762,In Memory of Walter Savage Landor,Swinburne,Algernon,Charles,,,,M,16,2d
+763,Love at Sea,Swinburne,Algernon,Charles,,,,M,16,2d
+764,From “Rosamond”,Swinburne,Algernon,Charles,,,,M,16,2d
+765,From “Atalanta in Calydon.” I. Chorus:—“When the Hounds of Spring”,Swinburne,Algernon,Charles,,,,M,16,2d
+766,"From “Atalanta in Calydon.” II. From the Chorus, “We Have Seen Thee, O Love!”",Swinburne,Algernon,Charles,,,,M,16,2d
+767,From “Chastelard”,Swinburne,Algernon,Charles,,,,M,16,2d
+768,From “Bothwell”,Swinburne,Algernon,Charles,,,,M,16,2d
+769,Sappho,Swinburne,Algernon,Charles,,,,M,16,2d
+770,Hope and Fear,Swinburne,Algernon,Charles,,,,M,16,2d
+771,On the Deaths of Thomas Carlyle and George Eliot,Swinburne,Algernon,Charles,,,,M,16,2d
+772,Hertha,Swinburne,Algernon,Charles,,,,M,16,2d
+773,Étude Réaliste,Swinburne,Algernon,Charles,,,,M,16,2d
+774,The Roundel,Swinburne,Algernon,Charles,,,,M,16,2d
+775,A Forsaken Garden,Swinburne,Algernon,Charles,,,,M,16,2d
+776,On the Monument Erected to Mazzini at Genoa,Swinburne,Algernon,Charles,,,,M,16,2d
+777,Cadences,Payne,John,,,,,M,349,2d
+778,Sibyl,Payne,John,,,,,M,349,2d
+779,Thorgerda,Payne,John,,,,,M,349,2d
+780,Love’s Autumn,Payne,John,,,,,M,349,2d
+781,Songs’ End,Payne,John,,,,,M,349,2d
+782,Poor Withered Rose,Bridges,Robert,Seymour,,,,M,70,2d
+783,I Will Not Let Thee Go,Bridges,Robert,Seymour,,,,M,70,2d
+784,Upon the Shore,Bridges,Robert,Seymour,,,,M,70,2d
+785,A Passer-By,Bridges,Robert,Seymour,,,,M,70,2d
+786,Elegy,Bridges,Robert,Seymour,,,,M,70,2d
+787,Thou Didst Delight My Eyes,Bridges,Robert,Seymour,,,,M,70,2d
+788,"Awake, My Heart!",Bridges,Robert,Seymour,,,,M,70,2d
+789,O Youth Whose Hope Is High,Bridges,Robert,Seymour,,,,M,70,2d
+790,So Sweet Love Seemed,Bridges,Robert,Seymour,,,,M,70,2d
+791,Asian Birds,Bridges,Robert,Seymour,,,,M,70,2d
+792,The Fair Maid and the Sun,O’Shaughnessy,Arthur,William,Edgar,,,M,344,2d
+793,Has Summer Come without the Rose?,O’Shaughnessy,Arthur,William,Edgar,,,M,344,2d
+794,At Her Grave,O’Shaughnessy,Arthur,William,Edgar,,,M,344,2d
+795,Silences,O’Shaughnessy,Arthur,William,Edgar,,,M,344,2d
+796,If She but Knew,O’Shaughnessy,Arthur,William,Edgar,,,M,344,2d
+797,A Greeting,Marston,Philip,Bourke,,,,M,131,2d
+798,A Vain Wish,Marston,Philip,Bourke,,,,M,131,2d
+799,Love’s Music,Marston,Philip,Bourke,,,,M,131,2d
+800,The Rose and the Wind,Marston,Philip,Bourke,,,,M,131,2d
+801,How My Song of Her Began,Marston,Philip,Bourke,,,,M,131,2d
+802,The Old Churchyard of Bonchurch,Marston,Philip,Bourke,,,,M,131,2d
+803,Garden Fairies,Marston,Philip,Bourke,,,,M,131,2d
+804,Love and Music,Marston,Philip,Bourke,,,,M,131,2d
+805,No Death,Marston,Philip,Bourke,,,,M,131,2d
+806,At the Last,Marston,Philip,Bourke,,,,M,131,2d
+807,Her Pity,Marston,Philip,Bourke,,,,M,131,2d
+808,After Summer,Marston,Philip,Bourke,,,,M,131,2d
+809,To the Spirit of Poetry,Marston,Philip,Bourke,,,,M,131,2d
+810,If You Were Here,Marston,Philip,Bourke,,,,M,131,2d
+811,At Last,Marston,Philip,Bourke,,,,M,131,2d
+812,From “The Fool’s Revenge”,Taylor,Tom,,,,,M,384,2e
+813,Abraham Lincoln,Taylor,Tom,,,,,M,384,2e
+814,From “Marie De Meranie”,Marston,John,Westland,,,,M,315,2e
+815,Cromwell and Henrietta Maria,Wills,William,Gorman,,,,M,411,2e
+816,From “Pygmalion and Galatea”,Gilbert,William,Schwenck,,,,M,251,2e
+817,Ætate XIX,Merivale,Herman,Charles,,,,M,322,2e
+818,"Ready, Ay, Ready",Merivale,Herman,Charles,,,,M,322,2e
+819,Thaisa’s Dirge,Merivale,Herman,Charles,,,,M,322,2e
+820,Songs from Dramas. I. News to the King,Webster,Augusta,,,,,F,15,2e
+821,Songs from Dramas. II. ’Tween Earth and Sky,Webster,Augusta,,,,,F,15,2e
+822,Songs from Dramas. III. Day Is Dead,Webster,Augusta,,,,,F,15,2e
+823,"Songs from Dramas. IV. Tell Me Not of Morrows, Sweet",Webster,Augusta,,,,,F,15,2e
+824,The Deaths of Myron and Klydone,Webster,Augusta,,,,,F,15,2e
+825,To My Grandmother,Locker-Lampson,Frederick,,,,,M,123,2f
+826,The Widow’s Mite,Locker-Lampson,Frederick,,,,,M,123,2f
+827,On an Old Muff,Locker-Lampson,Frederick,,,,,M,123,2f
+828,To My Mistress,Locker-Lampson,Frederick,,,,,M,123,2f
+829,The Skeleton in the Cupboard,Locker-Lampson,Frederick,,,,,M,123,2f
+830,My Lord Tomnoddy,Brough,Robert,Barnabas,,,,M,201,2f
+831,Companions,Calverley,Charles,Stuart,,,,M,209,2f
+832,Ballad,Calverley,Charles,Stuart,,,,M,209,2f
+833,On the Brink,Calverley,Charles,Stuart,,,,M,209,2f
+834,A Marlow Madrigal,Ashby-Sterry,Joseph,,,,,M,177,2f
+835,A Portrait,Ashby-Sterry,Joseph,,,,,M,177,2f
+836,The Little Rebel,Ashby-Sterry,Joseph,,,,,M,177,2f
+837,From “The Paradise of Birds.” I. Birdcatcher’s Song,Courthope,William,John,,,,M,223,2f
+838,From “The Paradise of Birds.” II. Ode—To the Roc,Courthope,William,John,,,,M,223,2f
+839,From “The Paradise of Birds.” III. In Praise of Gilbert White,Courthope,William,John,,,,M,223,2f
+840,The Six Carpenters’ Case,Pollock,Frederick,,,,Sir,M,351,2f
+841,The Jumblies,Lear,Edward,,,,,M,48,2g
+842,Topsy-Turvy World,Rands,William,Brighty,,,,M,147,2g
+843,Polly,Rands,William,Brighty,,,,M,147,2g
+844,Dressing the Doll,Rands,William,Brighty,,,,M,147,2g
+845,I Saw a New World,Rands,William,Brighty,,,,M,147,2g
+846,Jabberwocky,Carroll,Lewis,,,,,M,66,2g
+847,From “The Hunting of the Snark”,Carroll,Lewis,,,,,M,66,2g
+848,Of Alice in Wonderland,Carroll,Lewis,,,,,M,66,2g
+850,A Dead Letter,Dobson,Austin,,,,,M,235,3a
+851,A Rondeau to Ethel,Dobson,Austin,,,,,M,235,3a
+852,“With Pipe and Flute”,Dobson,Austin,,,,,M,235,3a
+853,A Gage D’Amour,Dobson,Austin,,,,,M,235,3a
+854,The Cradle,Dobson,Austin,,,,,M,235,3a
+855,The Forgotten Grave,Dobson,Austin,,,,,M,235,3a
+856,The Curé’s Progress,Dobson,Austin,,,,,M,235,3a
+857,"“Good-Night, Babette!”",Dobson,Austin,,,,,M,235,3a
+858,On a Fan,Dobson,Austin,,,,,M,235,3a
+859,“O Navis”,Dobson,Austin,,,,,M,235,3a
+860,“O Fons Bandusiæ”,Dobson,Austin,,,,,M,235,3a
+861,For a Copy of Theocritus,Dobson,Austin,,,,,M,235,3a
+862,To a Greek Girl,Dobson,Austin,,,,,M,235,3a
+863,Ars Victrix,Dobson,Austin,,,,,M,235,3a
+864,The Ladies of St. James’s,Dobson,Austin,,,,,M,235,3a
+865,A Familiar Epistle,Dobson,Austin,,,,,M,235,3a
+866,“In after Days”,Dobson,Austin,,,,,M,235,3a
+867,To Manon,Blunt,Wilfrid,Scawen,,,,M,196,3a
+868,To the Same,Blunt,Wilfrid,Scawen,,,,M,196,3a
+869,Laughter and Death,Blunt,Wilfrid,Scawen,,,,M,196,3a
+870,Gibraltar,Blunt,Wilfrid,Scawen,,,,M,196,3a
+871,The Old Squire,Blunt,Wilfrid,Scawen,,,,M,196,3a
+872,Death As the Teacher of Love-Lore,Marzials,Frank,T.,,,,M,318,3a
+873,Death As the Fool,Marzials,Frank,T.,,,,M,318,3a
+874,Two Sonnet-Songs. I. The Sirens Sing,Marzials,Frank,T.,,,,M,318,3a
+875,Two Sonnet-Songs. II. Orpheus and the Mariners Make Answer,Marzials,Frank,T.,,,,M,318,3a
+876,An Autumn Flitting,Cotterell,George,,,,,M,222,3a
+877,In the Twilight,Cotterell,George,,,,,M,222,3a
+878,"Ballades. I. To Theocritus, in Winter",Lang,Andrew,,,,,M,293,3a
+879,Ballades. II. Of the Book-Hunter,Lang,Andrew,,,,,M,293,3a
+880,Ballades. III. Of Blue China,Lang,Andrew,,,,,M,293,3a
+881,Ballades. IV. Of Life,Lang,Andrew,,,,,M,293,3a
+882,Ballades. V. Of His Choice of a Sepulchre,Lang,Andrew,,,,,M,293,3a
+883,Romance,Lang,Andrew,,,,,M,293,3a
+884,The Odyssey,Lang,Andrew,,,,,M,293,3a
+885,San Terenzo,Lang,Andrew,,,,,M,293,3a
+886,Scythe Song,Lang,Andrew,,,,,M,293,3a
+887,Melville and Coghill,Lang,Andrew,,,,,M,293,3a
+888,Paraphrases. I. Erinna,Lang,Andrew,,,,,M,293,3a
+889,Paraphrases. II. Telling the Bees,Lang,Andrew,,,,,M,293,3a
+890,Paraphrases. III. Heliodore Dead,Lang,Andrew,,,,,M,293,3a
+891,A Scot to Jeanne D’Arc,Lang,Andrew,,,,,M,293,3a
+892,Three Portraits of Prince Charles,Lang,Andrew,,,,,M,293,3a
+893,Æsop,Lang,Andrew,,,,,M,293,3a
+894,On Calais Sands,Lang,Andrew,,,,,M,293,3a
+895,Karma,Canton,William,,,,,M,95,3a
+896,Laus Infantium,Canton,William,,,,,M,95,3a
+897,A New Poet,Canton,William,,,,,M,95,3a
+898,To a Daisy,Hartley,John,,,,,M,267,3a
+899,Cuddle Doon,Anderson,Alexander,,,,,M,80,3a
+900,A Sea Story,Hickey,Emily,Henrietta,,,,F,270,3a
+901,"Beloved, It Is Morn",Hickey,Emily,Henrietta,,,,F,270,3a
+902,A Seat for Three,Crane,Walter,,,,,M,226,3a
+903,Across the Fields,Crane,Walter,,,,,M,226,3a
+904,Sir Walter Raleigh to a Caged Linnet,Lee-Hamilton,Eugene,,,,,M,19,3a
+905,Izaak Walton to River and Brook,Lee-Hamilton,Eugene,,,,,M,19,3a
+906,Charles II. of Spain to Approaching Death,Lee-Hamilton,Eugene,,,,,M,19,3a
+907,To My Tortoise Chronos,Lee-Hamilton,Eugene,,,,,M,19,3a
+908,Sunken Gold,Lee-Hamilton,Eugene,,,,,M,19,3a
+909,Sea-Shell Murmurs,Lee-Hamilton,Eugene,,,,,M,19,3a
+910,A Flight from Glory,Lee-Hamilton,Eugene,,,,,M,19,3a
+911,What the Sonnet Is,Lee-Hamilton,Eugene,,,,,M,19,3a
+912,On His “Sonnets of the Wingless Hours”,Lee-Hamilton,Eugene,,,,,M,19,3a
+913,The White Blossom’s off the Bog,Graves,Alfred,Perceval,,,,M,258,3a
+914,New Year’s Eve—Midnight,Macdonald,Frederika,Richardson,,,,F,307,3a
+915,The Dead Child,Barlow,George,,,,,M,183,3a
+916,If Only Thou Art True,Barlow,George,,,,,M,183,3a
+917,The Old Maid,Barlow,George,,,,,M,183,3a
+918,London Bridge,Weatherly,Frederic,Edward,,,,M,399,3a
+919,Nancy Lee,Weatherly,Frederic,Edward,,,,M,399,3a
+920,A Bird in the Hand,Weatherly,Frederic,Edward,,,,M,399,3a
+921,Douglas Gordon,Weatherly,Frederic,Edward,,,,M,399,3a
+922,Darby and Joan,Weatherly,Frederic,Edward,,,,M,399,3a
+923,Jesus the Carpenter,Liddell,Catherine,C.,,,,F,298,3a
+924,The Poet in the City,Liddell,Catherine,C.,,,,F,298,3a
+925,Lying in the Grass,Gosse,Edmund,William,,,,M,257,3a
+926,On a Lute Found in a Sarcophagus,Gosse,Edmund,William,,,,M,257,3a
+927,The Pipe-Player,Gosse,Edmund,William,,,,M,257,3a
+928,Hans Christian Andersen,Gosse,Edmund,William,,,,M,257,3a
+929,De Rosis Hibernis,Gosse,Edmund,William,,,,M,257,3a
+930,Theocritus,Gosse,Edmund,William,,,,M,257,3a
+931,With a Copy of Herrick,Gosse,Edmund,William,,,,M,257,3a
+932,The Voice of D. G. R.,Gosse,Edmund,William,,,,M,257,3a
+933,Song for Music,Gosse,Edmund,William,,,,M,257,3a
+934,A Pastoral,Marzials,Théophile,Julius,Henri,,,M,319,3a
+935,Twickenham Ferry,Marzials,Théophile,Julius,Henri,,,M,319,3a
+936,May Margaret,Marzials,Théophile,Julius,Henri,,,M,319,3a
+937,Last Night,Marzials,Théophile,Julius,Henri,,,M,319,3a
+938,Carpe Diem,Marzials,Théophile,Julius,Henri,,,M,319,3a
+939,Below the Heights,Pollock,Walter,Herries,,,,M,352,3a
+940,A Conquest,Pollock,Walter,Herries,,,,M,352,3a
+941,Father Francis,Pollock,Walter,Herries,,,,M,352,3a
+942,From “Canute the Great”,Field,Michael,,,,,F,20,3a
+943,The Burial of Robert Browning,Field,Michael,,,,,F,20,3a
+944,Wind of Summer,Field,Michael,,,,,F,20,3a
+945,The Dancers,Field,Michael,,,,,F,20,3a
+946,Lettice,Field,Michael,,,,,F,20,3a
+947,Earth to Earth,Field,Michael,,,,,F,20,3a
+948,An Æolian Harp,Field,Michael,,,,,F,20,3a
+949,Iris,Field,Michael,,,,,F,20,3a
+950,From “A Love-Trilogy”,Blind,Mathilde,,,,,F,91,3a
+951,The Dead,Blind,Mathilde,,,,,F,91,3a
+952,From “Love in Exile”,Blind,Mathilde,,,,,F,91,3a
+953,Pirate Story,Stevenson,Robert,Louis,,,,M,74,3a
+954,Foreign Lands,Stevenson,Robert,Louis,,,,M,74,3a
+955,The Land of Counterpane,Stevenson,Robert,Louis,,,,M,74,3a
+956,The Land of Nod,Stevenson,Robert,Louis,,,,M,74,3a
+957,In the Season,Stevenson,Robert,Louis,,,,M,74,3a
+958,To N. V. De G. S.,Stevenson,Robert,Louis,,,,M,74,3a
+959,In the States,Stevenson,Robert,Louis,,,,M,74,3a
+960,The Spaewife,Stevenson,Robert,Louis,,,,M,74,3a
+961,Heather Ale: A Galloway Legend,Stevenson,Robert,Louis,,,,M,74,3a
+962,The Whaups,Stevenson,Robert,Louis,,,,M,74,3a
+963,Requiem,Stevenson,Robert,Louis,,,,M,74,3a
+964,A Ballade of Playing Cards,White,Gleeson,,,,,M,406,3a
+965,Sufficiency,White,Gleeson,,,,,M,406,3a
+966,A Primrose Dame,White,Gleeson,,,,,M,406,3a
+967,Schöne Rothraut,Goodchild,John,Arthur,,,,M,255,3a
+968,A Parable of the Spirit,Goodchild,John,Arthur,,,,M,255,3a
+969,The Waking of the Lark,Mackay,Eric,,,,,M,311,3a
+970,Mary Arden,Mackay,Eric,,,,,M,311,3a
+971,Ecstasy,Mackay,Eric,,,,,M,311,3a
+972,In Tuscany,Mackay,Eric,,,,,M,311,3a
+973,An English Girl,Home,F.,Wyville,,,,M,272,3a
+974,Dover Cliff,Home,F.,Wyville,,,,M,272,3a
+975,In a September Night,Home,F.,Wyville,,,,M,272,3a
+976,Eurydice,Bourdillon,Francis,William,,,,M,198,3a
+977,A Violinist,Bourdillon,Francis,William,,,,M,198,3a
+978,Old and Young,Bourdillon,Francis,William,,,,M,198,3a
+979,The Night Has a Thousand Eyes,Bourdillon,Francis,William,,,,M,198,3a
+980,In the Wood,Clarke,Herbert,Edwin,,,,M,216,3a
+981,A Cry,Clarke,Herbert,Edwin,,,,M,216,3a
+982,The Age,Clarke,Herbert,Edwin,,,,M,216,3a
+983,The Wife of Loki,Elliot,Charlotte,,,,Lady,F,242,3a
+984,A Child’s Portrait,Dawson,William,James,,,,M,232,3a
+985,Bird’s Song at Morning,Dawson,William,James,,,,M,232,3a
+986,Ideal Memory,Dawson,William,James,,,,M,232,3a
+987,To a Desolate Friend,Dawson,William,James,,,,M,232,3a
+988,The Angel at the Ford,Dawson,William,James,,,,M,232,3a
+989,After Death,Parnell,Frances,Isabel,,,,F,347,3a
+990,The Modern Poet,Meynell,Alice,,,,,F,71,3a
+991,Song,Meynell,Alice,,,,,F,71,3a
+992,Changeless,Meynell,Alice,,,,,F,71,3a
+993,Renouncement,Meynell,Alice,,,,,F,71,3a
+994,Song of the Night at Daybreak,Meynell,Alice,,,,,F,71,3a
+995,Charles Lamb,Beatty,Pakenham,,,,,M,185,3a
+996,The Death of Hampden,Beatty,Pakenham,,,,,M,185,3a
+997,Before and After,Brown,Oliver,Madox,,,,M,203,3a
+998,Laura’s Song,Brown,Oliver,Madox,,,,M,203,3a
+999,A Shepherd Maiden,Lefroy,Edward,Cracroft,,,,M,297,3a
+1000,A Sicilian Night,Lefroy,Edward,Cracroft,,,,M,297,3a
+1001,A Football-Player,Lefroy,Edward,Cracroft,,,,M,297,3a
+1002,The Bees of Myddelton Manor,Probyn,May,,,,,F,354,3a
+1003,“Is It Nothing to You?”,Probyn,May,,,,,F,354,3a
+1004,Spring’s Immortality,Bell,Mackenzie,,,,,M,187,3a
+1005,At the Grave of Dante Gabriel Rossetti,Bell,Mackenzie,,,,,M,187,3a
+1006,At Stratford-on-Avon,Bell,Mackenzie,,,,,M,187,3a
+1007,Our Casuarina Tree,Dutt,Toru,,,,,F,240,3a
+1008,The Last Aboriginal,Sharp,William,,,,,M,371,3a
+1009,The Coves of Crail,Sharp,William,,,,,M,371,3a
+1010,The Isle of Lost Dreams,Sharp,William,,,,,M,371,3a
+1011,The Death-Child,Sharp,William,,,,,M,371,3a
+1012,From “Sospiri Di Roma.” I. Susurro,Sharp,William,,,,,M,371,3a
+1013,From “Sospiri Di Roma.” II. Red Poppies,Sharp,William,,,,,M,371,3a
+1014,From “Sospiri Di Roma.” III. The White Peacock,Sharp,William,,,,,M,371,3a
+1015,Song,Sharp,William,,,,,M,371,3a
+1016,Ave Imperatrix,Wilde,Oscar,,,,,M,26,3a
+1017,A Christmas Letter from Australia,Sladen,Douglas,B.,W.,,,M,375,3a
+1018,"Sunset on the Cunimbla Valley, Blue Mountains",Sladen,Douglas,B.,W.,,,M,375,3a
+1019,The Tropics,Sladen,Douglas,B.,W.,,,M,375,3a
+1020,From the Drama of “Charles II”,Sladen,Douglas,B.,W.,,,M,375,3a
+1021,Salopia Inhospitalis,Sladen,Douglas,B.,W.,,,M,375,3a
+1022,A Summer Day,Beeching,Henry,Charles,,,,M,186,3a
+1023,To My Totem,Beeching,Henry,Charles,,,,M,186,3a
+1024,Knowledge after Death,Beeching,Henry,Charles,,,,M,186,3a
+1025,Prayers,Beeching,Henry,Charles,,,,M,186,3a
+1026,An Etruscan Ring,Mackail,John,William,,,,M,309,3a
+1027,Lines by a Person of Quality,Nichols,John,Bowyer,Buchanan,,,M,340,3a
+1028,A Pastoral,Nichols,John,Bowyer,Buchanan,,,M,340,3a
+1029,Dawn-Angels,Robinson,A.,Mary,F.,,,F,358,3a
+1030,Cockayne Country,Robinson,A.,Mary,F.,,,F,358,3a
+1031,Celia’s Home-Coming,Robinson,A.,Mary,F.,,,F,358,3a
+1032,From “Tuscan Cypress”,Robinson,A.,Mary,F.,,,F,358,3a
+1033,Rosa Rosarum,Robinson,A.,Mary,F.,,,F,358,3a
+1034,Darwinism,Robinson,A.,Mary,F.,,,F,358,3a
+1035,A Ballad of Orleans,Robinson,A.,Mary,F.,,,F,358,3a
+1036,Harvest-Home Song,Davidson,John,,,,,M,27,3a
+1037,A Ballad of Heaven,Davidson,John,,,,,M,27,3a
+1038,London,Davidson,John,,,,,M,27,3a
+1039,Love and Death,Mulholland,Rosa,,,,,F,334,3a
+1040,Sister Mary of the Love of God,Mulholland,Rosa,,,,,F,334,3a
+1041,Ballad of a Bridal,Bland,Edith,Nesbit,,,,F,194,3a
+1042,The Pantheist’s Song of Immortality,Naden,Constance,C.,W.,,,F,137,3a
+1043,A Roman Mirror,Rodd,Rennell,,,,,M,359,3a
+1044,Actea,Rodd,Rennell,,,,,M,359,3a
+1045,Imperator Augustus,Rodd,Rennell,,,,,M,359,3a
+1046,The Daisy,Rodd,Rennell,,,,,M,359,3a
+1047,“When I Am Dead”,Rodd,Rennell,,,,,M,359,3a
+1048,Then and Now,Rodd,Rennell,,,,,M,359,3a
+1049,Epigrams. I. To a Seabird,Watson,William,,,,,M,167,3a
+1050,Epigrams. II. The Play of “King Lear”,Watson,William,,,,,M,167,3a
+1051,Epigrams. III. Byron the Voluptuary,Watson,William,,,,,M,167,3a
+1052,Epigrams. IV. On Dürer’s Melencolia,Watson,William,,,,,M,167,3a
+1053,Epigrams. V. Exit,Watson,William,,,,,M,167,3a
+1054,Lachrymæ Musarum,Watson,William,,,,,M,167,3a
+1055,The First Skylark of Spring,Watson,William,,,,,M,167,3a
+1056,Song in Imitation of the Elizabethans,Watson,William,,,,,M,167,3a
+1057,In Pace,Ropes,Arthur,Reed,,,,M,360,3a
+1058,On the Bridge,Ropes,Arthur,Reed,,,,M,360,3a
+1059,Absence,Blaikie,John,Arthur,,,,M,192,3a
+1060,Song,Blaikie,John,Arthur,,,,M,192,3a
+1061,Love’s Secret Name,Blaikie,John,Arthur,,,,M,192,3a
+1062,To a Poet Breaking Silence,Thompson,Francis,,,,,M,77,3a
+1063,Dream-Tryst,Thompson,Francis,,,,,M,77,3a
+1064,Daisy,Thompson,Francis,,,,,M,77,3a
+1065,Lapsus Calami,Stephen,James,Kenneth,,,,M,379,3a
+1066,A Thought,Stephen,James,Kenneth,,,,M,379,3a
+1067,A Sonnet,Stephen,James,Kenneth,,,,M,379,3a
+1068,Le Mauvais Larron,Watson,Rosamund,Marriott,,,,F,166,3a
+1069,Deid Folks’ Ferry,Watson,Rosamund,Marriott,,,,F,166,3a
+1070,Hereafter,Watson,Rosamund,Marriott,,,,F,166,3a
+1071,The Farm on the Links,Watson,Rosamund,Marriott,,,,F,166,3a
+1072,To My Cat,Watson,Rosamund,Marriott,,,,F,166,3a
+1073,Ave Atque Vale,Watson,Rosamund,Marriott,,,,F,166,3a
+1074,Life,Little,Lizzie,M.,,,,F,301,3a
+1075,Sheep and Lambs,Hinkson,Katharine,Tynan,,,,F,271,3a
+1076,De Profundis,Hinkson,Katharine,Tynan,,,,F,271,3a
+1077,Singing Stars,Hinkson,Katharine,Tynan,,,,F,271,3a
+1078,The Sad Mother,Hinkson,Katharine,Tynan,,,,F,271,3a
+1079,The Dead Coach,Hinkson,Katharine,Tynan,,,,F,271,3a
+1080,A Pure Hypothesis,Kendall,May,,,,,F,28,3a
+1081,A Board School Pastoral,Kendall,May,,,,,F,28,3a
+1082,A Legend,Kendall,May,,,,,F,28,3a
+1083,The Page of Lancelot,Kendall,May,,,,,F,28,3a
+1084,A London Plane-Tree,Levy,Amy,,,,,F,29,3a
+1085,Between the Showers,Levy,Amy,,,,,F,29,3a
+1086,In the Mile End Road,Levy,Amy,,,,,F,29,3a
+1087,To Vernon Lee,Levy,Amy,,,,,F,29,3a
+1088,Solway Sands,Craigmyle,Elizabeth,,,,,F,224,3a
+1089,London Feast,Rhys,Ernest,,,,,M,356,3a
+1090,An Autobiography,Rhys,Ernest,,,,,M,356,3a
+1091,Diana,Rhys,Ernest,,,,,M,356,3a
+1092,Brechva’s Harp Song,Rhys,Ernest,,,,,M,356,3a
+1093,White Roses,Rhys,Ernest,,,,,M,356,3a
+1094,Song of the Wulfshaw Larches,Rhys,Ernest,,,,,M,356,3a
+1095,Knapweed,Benson,Arthur,Christopher,,,,M,189,3a
+1096,Realism,Benson,Arthur,Christopher,,,,M,189,3a
+1097,An English Shell,Benson,Arthur,Christopher,,,,M,189,3a
+1098,After Construing,Benson,Arthur,Christopher,,,,M,189,3a
+1099,Song,Gale,Norman,,,,,M,249,3a
+1100,Song,Gale,Norman,,,,,M,249,3a
+1101,A Priest,Gale,Norman,,,,,M,249,3a
+1102,The Country Faith,Gale,Norman,,,,,M,249,3a
+1103,A Dead Friend,Gale,Norman,,,,,M,249,3a
+1104,Content,Gale,Norman,,,,,M,249,3a
+1105,The First Kiss,Gale,Norman,,,,,M,249,3a
+1106,To My Brothers,Gale,Norman,,,,,M,249,3a
+1107,Dawn and Dark,Gale,Norman,,,,,M,249,3a
+1108,The Splendid Spur,Quiller-Couch,Arthur,Thomas,,,Sir,M,355,3a
+1109,The White Moth,Quiller-Couch,Arthur,Thomas,,,Sir,M,355,3a
+1110,A Curlew’s Call,Barlow,Jane,,,,,F,83,3a
+1111,The Protestation,Image,Selwyn,,,,,M,278,3a
+1112,A Prayer,Image,Selwyn,,,,,M,278,3a
+1113,Her Confirmation,Image,Selwyn,,,,,M,278,3a
+1114,Amico Suo,Horne,Herbert,P.,,,,M,273,3a
+1115,Formosae Puellae,Horne,Herbert,P.,,,,M,273,3a
+1116,Nancy Dawson,Horne,Herbert,P.,,,,M,273,3a
+1117,“If She Be Made of White and Red”,Horne,Herbert,P.,,,,M,273,3a
+1118,Rest,Woods,Margaret,L.,,,,F,413,3a
+1119,To the Forgotten Dead,Woods,Margaret,L.,,,,F,413,3a
+1120,Young Windebank,Woods,Margaret,L.,,,,F,413,3a
+1121,Orbits,Le Gallienne,Richard,,,,,M,296,3a
+1122,Love’s Poor,Le Gallienne,Richard,,,,,M,296,3a
+1123,Regret,Le Gallienne,Richard,,,,,M,296,3a
+1124,The Wonder-Child,Le Gallienne,Richard,,,,,M,296,3a
+1125,An Old Man’s Song,Le Gallienne,Richard,,,,,M,296,3a
+1126,The Passionate Reader to His Poet,Le Gallienne,Richard,,,,,M,296,3a
+1127,Danny Deever,Kipling,Rudyard,,,,,M,30,3a
+1128,“Fuzzy-Wuzzy”,Kipling,Rudyard,,,,,M,30,3a
+1129,The Ballad of East and West,Kipling,Rudyard,,,,,M,30,3a
+1130,The Conundrum of the Workshops,Kipling,Rudyard,,,,,M,30,3a
+1131,The Law for the Wolves,Kipling,Rudyard,,,,,M,30,3a
+1132,The Last Chantey,Kipling,Rudyard,,,,,M,30,3a
+1133,At Fontainebleau,Symons,Arthur,,,,,M,31,3a
+1134,Javanese Dancers,Symons,Arthur,,,,,M,31,3a
+1135,During Music,Symons,Arthur,,,,,M,31,3a
+1136,To a Portrait,Symons,Arthur,,,,,M,31,3a
+1137,If All the World,Radford,Dollie,,,,,F,146,3a
+1138,"Ah, Bring It Not",Radford,Dollie,,,,,F,146,3a
+1139,My Little Dear,Radford,Dollie,,,,,F,146,3a
+1140,A Model,Radford,Dollie,,,,,F,146,3a
+1141,October,Radford,Dollie,,,,,F,146,3a
+1142,An Indian Song,Yeats,William,Butler,,,,M,417,3a
+1143,An Old Song Resung,Yeats,William,Butler,,,,M,417,3a
+1144,The Rose of the World,Yeats,William,Butler,,,,M,417,3a
+1145,The White Birds,Yeats,William,Butler,,,,M,417,3a
+1146,The Folk of the Air,Yeats,William,Butler,,,,M,417,3a
+1147,The Song of the Old Mother,Yeats,William,Butler,,,,M,417,3a
+1148,Self-Discipline,Russell,George,William,,,,M,152,3a
+1149,Krishna,Russell,George,William,,,,M,152,3a
+1150,The Great Breath,Russell,George,William,,,,M,152,3a
+1151,The Man to the Angel,Russell,George,William,,,,M,152,3a
+1152,Om,Russell,George,William,,,,M,152,3a
+1153,Immortality,Russell,George,William,,,,M,152,3a
+1154,The Music-Hall,Wratislaw,Theodore,,,,,M,416,3a
+1155,Expectation,Wratislaw,Theodore,,,,,M,416,3a
+1156,A Vain Desire,Wratislaw,Theodore,,,,,M,416,3a
+1157,The Tryst of the Night,Byron,Mary,C.,G.,,,F,207,3a
+1158,The Fairy Thrall,Byron,Mary,C.,G.,,,F,207,3a
+1159,The Seven Whistlers,Gillington,Alice,E.,,,,F,254,3a
+1160,The Rosy Musk-Mallow,Gillington,Alice,E.,,,,F,254,3a
+1161,The Doom-Bar,Gillington,Alice,E.,,,,F,254,3a
+1162,All Souls’ Night,Sigerson,Dora,,,,,F,372,3a
+1163,The Happy Wanderer,Addleshaw,Percy,,,,,M,171,3a
+1164,Travellers,Addleshaw,Percy,,,,,M,171,3a
+1165,It May Be,Addleshaw,Percy,,,,,M,171,3a
+1166,The Waking of Spring,Custance,Olive,,,,,F,229,3a
+1167,Twilight,Custance,Olive,,,,,F,229,3a
+1168,The Parting Hour,Custance,Olive,,,,,F,229,3a
+1170,The Birth of Australia,Russell,Percy,,,,,M,363,4a
+1171,A Midsummer’s Noon in the Australian Forest,Harpur,Charles,,,,,M,265,4a
+1172,An Aboriginal Mother’s Lament,Harpur,Charles,,,,,M,265,4a
+1173,Song of the Squatter,Lowe,Robert,Robert,,,Viscount Sherbrooke,M,304,4a
+1174,How We Beat the Favorite,Gordon,Adam,Lindsay,,,,M,256,4a
+1175,The Sick Stock-Rider,Gordon,Adam,Lindsay,,,,M,256,4a
+1176,Valedictory,Gordon,Adam,Lindsay,,,,M,256,4a
+1177,The Dominion of Australia,Stephens,James,Brunton,,,,M,380,4a
+1178,Forby Sutherland,McCrae,George,Gordon,,,,M,320,4a
+1179,To a Mountain,Kendall,Henry,Clarence,,,,M,287,4a
+1180,Coogee,Kendall,Henry,Clarence,,,,M,287,4a
+1181,September in Australia,Kendall,Henry,Clarence,,,,M,287,4a
+1182,The Last of His Tribe,Kendall,Henry,Clarence,,,,M,287,4a
+1183,The Voice in the Wild Oak,Kendall,Henry,Clarence,,,,M,287,4a
+1184,The Song of the Wild Storm-Waves,Sinnett,Percy,F.,,,,M,374,4a
+1185,The Waif,Smith,A.,C.,,,,M,376,4a
+1186,Beneath the Wattle Boughs,Gill,Frances,Tyrrell,,,,F,253,4a
+1187,The Digger’s Grave,Welch,Sarah,,,,,F,401,4a
+1188,Love and War,Martin,Arthur,Patchett,,,,M,316,4a
+1189,The Cynic of the Woods,Martin,Arthur,Patchett,,,,M,316,4a
+1190,An Australian Girl,Castilla,Ethel,,,,,F,215,4a
+1191,A New Zealand Regret,Montgomery,Eleanor,,,,,F,330,4a
+1192,Adieu,Montgomery,Eleanor,,,,,F,330,4a
+1193,Canadian Hunter’s Song,Moodie,Susanna,Strickland,,,,F,332,4b
+1194,The Walker of the Snow,Shanly,Charles,Dawson,,,,M,370,4b
+1195,Scenes from “Saul”,Heavysege,Charles,,,,,M,268,4b
+1196,Twilight,Heavysege,Charles,,,,,M,268,4b
+1197,From the Drama of “De Roberval”,Hunter-Duvar,John,,,,,M,276,4b
+1198,Brawn of England’s Lay,Hunter-Duvar,John,,,,,M,276,4b
+1199,From “Tecumseh: A Drama”,Mair,Charles,,,,,M,314,4b
+1200,The Nor’-West Courier,Logan,John,E.,,,,M,302,4b
+1201,A Blood-Red Ring Hung round the Moon,Logan,John,E.,,,,M,302,4b
+1202,A Dead Singer,Logan,John,E.,,,,M,302,4b
+1203,To a Humming Bird in a Garden,Murray,George,,,,,M,335,4b
+1204,A Lesson of Mercy,Murray,George,,,,,M,335,4b
+1205,The Golden Text,Cameron,George,Frederick,,,,M,210,4b
+1206,Standing on Tiptoe,Cameron,George,Frederick,,,,M,210,4b
+1207,What Matters It,Cameron,George,Frederick,,,,M,210,4b
+1208,The Canoe,Crawford,Isabella,Valancey,,,,F,227,4b
+1209,The Axe,Crawford,Isabella,Valancey,,,,F,227,4b
+1210,The Confused Dawn,Schuyler-Lighthall,William,Douw,,,,M,365,4b
+1211,Præterita ex Instantibus,Schuyler-Lighthall,William,Douw,,,,M,365,4b
+1212,The Battle of La Prairie,Schuyler-Lighthall,William,Douw,,,,M,365,4b
+1213,Montreal,Schuyler-Lighthall,William,Douw,,,,M,365,4b
+1214,Canada,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1215,The Isles,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1216,Burnt Lands,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1217,The Flight of the Geese,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1218,The Night Sky,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1219,The Deserted City,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1220,Autochthon,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1221,Marsyas,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1222,Epitaph for a Sailor Buried Ashore,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1223,The Keepers of the Pass,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1224,"The Bird’s Song, the Sun, and the Wind",Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1225,Afoot,Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1226,"Domine, Cui Sunt Pleiades Curae",Roberts,Charles,Douglas,George,,Sir,M,357,4b
+1227,To the Lakes,Campbell,William,Wilfred,,,,M,211,4b
+1228,A Canadian Folk-Song,Campbell,William,Wilfred,,,,M,211,4b
+1229,A Lake Memory,Campbell,William,Wilfred,,,,M,211,4b
+1230,The Were-Wolves,Campbell,William,Wilfred,,,,M,211,4b
+1231,Knowledge,Scott,Frederick,George,,,,M,368,4b
+1232,Time,Scott,Frederick,George,,,,M,368,4b
+1233,Samson,Scott,Frederick,George,,,,M,368,4b
+1234,Van Elsen,Scott,Frederick,George,,,,M,368,4b
+1235,Ad Majorem Dei Gloriam,Scott,Frederick,George,,,,M,368,4b
+1236,In the Golden Birch,MacDonald,Elizabeth,Gostwycke,Roberts,,,F,306,4b
+1237,Heat,Lampman,Archibald,,,,,M,292,4b
+1238,Between the Rapids,Lampman,Archibald,,,,,M,292,4b
+1239,A Forecast,Lampman,Archibald,,,,,M,292,4b
+1240,The Loons,Lampman,Archibald,,,,,M,292,4b
+1241,The City of the End of Things,Lampman,Archibald,,,,,M,292,4b
+1242,Marian Drury,Carman,Bliss,,,,,M,214,4b
+1243,A Sea Child,Carman,Bliss,,,,,M,214,4b
+1244,Golden Rowan,Carman,Bliss,,,,,M,214,4b
+1245,Spring Song,Carman,Bliss,,,,,M,214,4b
+1246,A More Ancient Mariner,Carman,Bliss,,,,,M,214,4b
+1247,A Windflower,Carman,Bliss,,,,,M,214,4b
+1248,The Mendicants,Carman,Bliss,,,,,M,214,4b
+1249,Song,Carman,Bliss,,,,,M,214,4b
+1250,Hack and Hew,Carman,Bliss,,,,,M,214,4b
+1251,Envoy,Carman,Bliss,,,,,M,214,4b
+1252,Chateau Papineau,Harrison,S.,Frances,,,,F,266,4b
+1253,September,Harrison,S.,Frances,,,,F,266,4b
+1254,Above St. Irénée,Scott,Duncan,Campbell,,,,M,367,4b
+1255,A Little Song,Scott,Duncan,Campbell,,,,M,367,4b
+1256,At Les Éboulements,Scott,Duncan,Campbell,,,,M,367,4b
+1257,Ottawa,Scott,Duncan,Campbell,,,,M,367,4b
+1258,At the Cedars,Scott,Duncan,Campbell,,,,M,367,4b
+1259,In November,Scott,Duncan,Campbell,,,,M,367,4b
+1260,The Reed-Player,Scott,Duncan,Campbell,,,,M,367,4b
+1261,Life and Death,Scott,Duncan,Campbell,,,,M,367,4b
+1262,The End of the Day,Scott,Duncan,Campbell,,,,M,367,4b
+1263,Sonnets from “A Lover’s Diary.” I. Love’s Outset,Parker,Gilbert,,,,Sir,M,346,4b
+1264,Sonnets from “A Lover’s Diary.” II. A Woman’s Hand,Parker,Gilbert,,,,Sir,M,346,4b
+1265,Sonnets from “A Lover’s Diary.” III. Art,Parker,Gilbert,,,,Sir,M,346,4b
+1266,Sonnets from “A Lover’s Diary.” IV. Invincible,Parker,Gilbert,,,,Sir,M,346,4b
+1267,The Song My Paddle Sings,Johnson,E.,Pauline,,,,F,282,4b
+1268,At Husking Time,Johnson,E.,Pauline,,,,F,282,4b
+1269,The Vagabonds,Johnson,E.,Pauline,,,,F,282,4b
+1270,Snowshoeing Song,Weir,Arthur,,,,,M,400,4b
+1271,The Wind of Death,Wetherald,Ethelwyn,,,,,F,405,4b
+1272,The House of the Trees,Wetherald,Ethelwyn,,,,,F,405,4b
+1273,The Snow Storm,Wetherald,Ethelwyn,,,,,F,405,4b
+1274,To February,Wetherald,Ethelwyn,,,,,F,405,4b
