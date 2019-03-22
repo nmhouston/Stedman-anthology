@@ -40,7 +40,7 @@ The filename *F2_p11_t0700.txt* thus indicates that it is by a female poet; publ
 Cross-referencing the metadata files described above indicates that this file is published indivision 2 "The Victorian Epoch," is written by the female poet Christina Rossetti, and that the poem is titled "Good-By."
 
 ## Accessing the files (if you're not familiar with Github)
-This repository contains two folders, poems and metadata. From the main screen you can click the green download button to download the entire repository as a zip file. If you only want the poem or metadata files, navigate to that subfolder and then click the green download button. 
+This repository contains two folders, poems and metadata. From the main screen you can click the green download button to download the entire repository as a zip file. 
 
 ## About
 This dataset was prepared by Natalie M. Houston in 2017-18. If you spot errors or have questions, feel free to contact me or open an issue in the repo. 
