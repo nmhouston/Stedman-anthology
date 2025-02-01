@@ -35,9 +35,9 @@ The Stedman_data.csv lists all the poems in the dataset and its assigned poem co
 
 The poem files in the dataset have been named so as to facilitate analysis. Each file name expresses the gender of the poet, the major division of the anthology in which the poem is published, the poet code, and the unique text code of the poem. 
 
-The filename *F2_p11_t0700.txt* thus indicates that it is by a female poet; published in division 2 of the anthology; by poet code 11; and is text number 700. Thus 
+The filename *F2_p11_t0700.txt* thus indicates that it is by a female poet; published in division 2 of the anthology; by poet code 11; and is text number 700. 
 
-Cross-referencing the metadata files described above indicates that this file is published indivision 2 "The Victorian Epoch," is written by the female poet Christina Rossetti, and that the poem is titled "Good-By."
+Cross-referencing the metadata files described above indicates that this file is published in division 2 "The Victorian Epoch," is written by the female poet Christina Rossetti, and that the poem is titled "Good-By."
 
 ## Accessing the files (if you're not familiar with Github)
 This repository contains two folders, poems and metadata. From the main screen you can click the green download button to download the entire repository as a zip file. 
